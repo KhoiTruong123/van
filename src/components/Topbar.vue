@@ -43,11 +43,12 @@
         tag="div"
         class="flex flex-col gap-4 text-center"
       >
-        <a class="hover:underline" href="">Về Vân</a>
-        <a href="#" class="hover:underline">Sự kiện</a>
-        <a href="#" class="hover:underline">Âm nhạc</a>
-        <a href="#" class="hover:underline">Tin tức</a>
-        <a href="#" class="hover:underline">Hình ảnh</a>
+        <a class="hover:underline" href="">{{ $t('Ve_Van') }}</a>
+        <a href="#" class="hover:underline">{{ $t('Su_kien') }}</a>
+        <a href="#" class="hover:underline">{{ $t('Chuong_trinh_bieu_dien') }}</a>
+        <a href="#" class="hover:underline">{{ $t('Am_nhac') }}</a>
+        <a href="#" class="hover:underline">{{ $t('Tin_tuc') }}</a>
+        <a href="#" class="hover:underline">{{ $t('Hinh_anh') }}</a>
       </TransitionGroup>
         
       </nav>

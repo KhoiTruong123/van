@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+.nuxt/
+*.log
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Lock files (nếu không muốn commit, nhưng thường nên commit để đồng bộ phiên bản)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
