@@ -14,7 +14,7 @@
   <!-- Sự kiện -->
   <section class="max-w-[1440px] mx-auto px-4 py-16 font-serif">
     <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
-      Sự kiện
+      {{ $t('Su_kien') }}
     </h2>
     <img class="w-full" src="../assets/images/su_kien.png" alt="" />
     <div class="space-y-6">
