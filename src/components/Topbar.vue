@@ -1,6 +1,6 @@
 <template>
   <header
-    class="bg-[#a24c4c] text-white fixed top-0 left-0 w-full z-50 font-serif"
+    class="bg-[#130000] text-white fixed top-0 left-0 w-full z-50 font-serif"
   >
     <div class="max-w-[1440px] mx-auto flex items-center justify-between p-4">
       <h1 class="text-2xl font-bold">Hồ Khánh Vân</h1>

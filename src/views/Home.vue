@@ -2,12 +2,17 @@
     <div class="bg-[#e8e1df]">
         <section class="relative">
     <img
-      src="/src//assets/images/van.png"
+      src="/src//assets/images/hinh_anh_trang_chu.png"
       class="w-full object-cover"
       alt="hero"
     />
-    <div class="absolute inset-0 bg-black/30 flex items-center justify-center">
-      <p class="text-white text-2xl md:text-4xl font-bold">Live Concert</p>
+    <div class="absolute inset-0 bg-black/30 flex flex-col items-center justify-center">
+      <div class="">
+        <p class="text-[#9D0602] text-3xl md:text-4xl font-bold font-serif">Hồ Khánh Vân</p>
+        <p class="text-[#9D0602] text-2xl md:text-4xl font-serif">Pinanist</p>
+        <p class="text-white font-serif text-xl">"music starts to breathe,<br>when one lives their life to the fullest"</p>
+      </div>
+      
     </div>
   </section>
 
@@ -25,20 +30,20 @@
         class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]"
       >
         <div class="flex items-center">
-            <span class="text-xl uppercase mr-4">Xem thêm</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
+            <span class="text-xl uppercase mr-4">{{$t('xem_them')}}</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
         </div>
        
       </button>
     </div>
   </section>
 
-  <!-- Âm nhạc -->
+  <!-- Am_nhac -->
   <section class="py-16 font-serif">
     <div class="w-full mx-auto px-4">
       <h2
         class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8"
       >
-        Âm nhạc
+        {{$t('Am_nhac')}}
       </h2>
       <div
         ref="sliderMusic"
@@ -68,7 +73,7 @@
         class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]"
       >
       <div class="flex items-center">
-            <span class="text-xl uppercase mr-4">Xem thêm</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
+            <span class="text-xl uppercase mr-4">{{$t('xem_them')}}</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
         </div>
       </button>
     </div>
@@ -77,7 +82,7 @@
   <!-- Tin tức -->
   <section class="max-w-[1440px] mx-auto px-4 py-16 font-serif">
     <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
-      Tin tức
+      {{$t('Tin tức')}}
     </h2>
     <div
         ref="sliderNews"
@@ -102,14 +107,14 @@
         class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]"
       >
       <div class="flex items-center">
-            <span class="text-xl uppercase mr-4">Xem thêm</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
+            <span class="text-xl uppercase mr-4">{{$t('xem_them')}}</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
         </div>
       </button>
     </div>
   </section>
 
   <!-- Hình ảnh -->
-  <section class="bg-white py-16 font-serif">
+  <!-- <section class="bg-white py-16 font-serif">
     <div class="max-w-[1440px] mx-auto px-4">
       <h2
         class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8"
@@ -130,12 +135,12 @@
         class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]"
       >
       <div class="flex items-center">
-            <span class="text-xl uppercase mr-4">Xem thêm</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
+            <span class="text-xl uppercase mr-4">xem_them</span><span class="bg-white rounded-2xl h-[90%]"><PhArrowUpRight class="text-[#8d3e3e]" :size="30" /></span>
         </div>
       </button>
       </div>
     </div>
-  </section>
+  </section> -->
     </div>
   
 </template>
