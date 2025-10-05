@@ -1,33 +1,60 @@
 <template>
-  <div class="flex flex-col gap-20 items-center font-serif">
-    <img src="/src/assets/images/su_kien_2.png" class="w-full" alt="">
-    <section class="max-w-[1440px] w-full pb-20 grid grid-cols-1 md:grid-cols-4 p-4 gap-4">
-      <div class="col-span-1 text-[50px] text-[#950032]">Sự Kiện</div>
-      <div class="space-y-4 col-span-3">
-        <div v-for="(event, i) in events" :key="i"
-          class="flex flex-col md:flex-row md:items-start border-b border-gray-400 pb-4 md:divide-x md:divide-gray-400">
-          <!-- Icon + Date -->
-          <div class="flex items-center mb-2 md:mb-0 md:w-40">
-            <PhCalendarDots color="#572219" class="w-5 h-5 text-rose-900 mr-2" />
-            <span class="text-sm text-[#572219]">{{ event.date }}</span>
-
+  <div class="flex flex-col gap-10 items-center font-serif">
+    <img src="/src/assets/images/su_kie_moi.png" class="w-full" alt="">
+    <section class="max-w-[1440px] w-full pb-20 grid grid-cols-1 p-4 gap-4">
+      <div class="col-span-1 text-[50px] text-[#950032] text-center">{{$t('Su_kien')}}</div>
+      <div class="space-y-4 col-span-3 pt-10">
+        <div
+        v-for="(event, i) in events"
+        :key="i"
+        class="grid grid-cols-1 md:grid-cols-3 md:items-start border-b border-gray-400 pb-4 md:divide-x md:divide-gray-400"
+      >
+        <!-- Icon + Date -->
+        <div class="">
+          <div class="flex items-center mb-2">
+            <PhCalendarDots
+              color="#572219"
+              class="w-5 h-5 text-rose-900 mr-2"
+            />
+            <span class="text-sm text-[#572219]">{{ $t(event.date) }}</span>
           </div>
-          <!-- <div class="hidden md:block w-[1px] h-[30px] bg-gray-400 mr-4"></div> -->
-
-          <!-- Title + Desc -->
-          <div class="flex-1 pl-6">
-            <h3 class="text-2xl flex items-center justify-between cursor-pointer text-[#572219]" @click="toggle(i)">
-              {{ event.title }}
-              <PhCaretDown :size="22" color="#572219" weight="bold"
-                class=" ml-2 transform transition-transform duration-300" :class="{ 'rotate-180': openIndex === i }" />
-            </h3>
-            <transition name="fade">
-              <p v-if="openIndex === i" class="text-sm text-gray-600 mt-1">
-                {{ event.desc }}
-              </p>
-            </transition>
+          <div class="flex items-center mb-2">
+            <PhMapPinArea
+              class="w-5 h-5 text-rose-900 mr-2"
+              :size="32"
+              color="#8b2727"
+            />
+            <span class="text-sm text-[#572219]">{{ $t(event.place) }}</span>
           </div>
         </div>
+        <!-- <div class="hidden md:block w-[1px] h-[30px] bg-gray-400 mr-4"></div> -->
+
+        <!-- Title + Desc -->
+        <div class="flex-1 pl-0 md:pl-6 col-span-2 h-full">
+          <h3
+            class="text-xl flex items-center justify-between cursor-pointer text-[#572219]"
+            @click="toggle(i)"
+          >
+            {{ $t(event.title) }}
+            <PhCaretDown
+              :size="22"
+              color="#572219"
+              weight="bold"
+              class="ml-2 transform transition-transform duration-300"
+              :class="{ 'rotate-180': openIndex === i }"
+            />
+          </h3>
+          <transition name="fade">
+            <p
+              style="white-space: pre-line"
+              v-if="openIndex === i"
+              class="text-sm text-gray-600 mt-1"
+            >
+              {{ $t(event.desc) }}
+            </p>
+          </transition>
+        </div>
+      </div>
       </div>
     </section>
   </div>
@@ -35,27 +62,60 @@
 </template>
 
 <script setup>
-import { PhCalendarDots, PhCaretDown } from '@phosphor-icons/vue'
+import { PhCalendarDots, PhCaretDown, PhMapPinArea } from '@phosphor-icons/vue'
 import { ref } from 'vue'
 // Bạn có thể đổi sang Phosphor Icons nếu thích.
 
 const events = [
   {
-    date: '15 Dec 2024',
-    title: 'Vân Live in Paris 2024',
-    desc: 'Mô tả sự kiện ngắn gọn, chi tiết bổ sung.'
+    date: "ngay_4_thang_7_2025_20_30",
+    place: "place_bieu_dien_tot_nghiep",
+    title: "bieu_dien_tot_nghiep",
+    desc: "bieu_dien_tot_nghiep_desc",
   },
   {
-    date: '20 Jan 2025',
-    title: 'Concert Hà Nội',
-    desc: 'Chương trình âm nhạc đặc biệt tại Hà Nội.'
+    date: "ngay_2_tháng_1_2025_20_30",
+    place: "place_mot_doi_nguoi",
+    title: "mot_doi_nguoi",
+    desc: "mot_doi_nguoi_desc",
   },
   {
-    date: '10 Mar 2025',
-    title: 'Gala Piano Night',
-    desc: 'Đêm nhạc piano với các nghệ sĩ khách mời.'
-  }
-]
+    date: "ngay_2_tháng_1_2025_17_30",
+    place: "place_ly_tuong_song",
+    title: "ly_tuong_song",
+    desc: "ly_tuong_song_desc",
+  },
+  {
+    date: "ngay_29_thang_12_2024_19_00",
+    place: "place_tro_ve",
+    title: "tro_ve",
+    desc: "tro_ve_desc",
+  },
+  {
+    date: "ngay_15_tháng_12_2024_19_30",
+    place: "place_cuoc_tim_kiem",
+    title: "cuoc_tim_kiem",
+    desc: "cuoc_tim_kiem_desc",
+  },
+  {
+    date: "ngay_14_tháng_12_2024_18_30",
+    place: "place_hanh_trinh_giac_mo",
+    title: "hanh_trinh_giac_mo",
+    desc: "hanh_trinh_giac_mo_desc",
+  },
+  {
+    date: "ngay_7_tháng_7_2024_20_00",
+    place: "place_tac_pham_cho_piano_va_Cello",
+    title: "tac_pham_cho_piano_va_Cello",
+    desc: "tac_pham_cho_piano_va_Cello_desc",
+  },
+  {
+    date: "ngay_4_tháng_5_2024_19_00",
+    place: "place_bieu_dien_hoc_vu",
+    title: "bieu_dien_hoc_vu",
+    desc: "bieu_dien_hoc_vu_desc",
+  },
+];
 
 const openIndex = ref(null)
 function toggle(i) {

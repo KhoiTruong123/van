@@ -80,36 +80,36 @@ const events = [
     title: "ly_tuong_song",
     desc: "ly_tuong_song_desc",
   },
-  {
-    date: "ngay_29_thang_12_2024_19_00",
-    place: "place_tro_ve",
-    title: "tro_ve",
-    desc: "tro_ve_desc",
-  },
-  {
-    date: "ngay_15_tháng_12_2024_19_30",
-    place: "place_cuoc_tim_kiem",
-    title: "cuoc_tim_kiem",
-    desc: "cuoc_tim_kiem_desc",
-  },
-  {
-    date: "ngay_14_tháng_12_2024_18_30",
-    place: "place_hanh_trinh_giac_mo",
-    title: "hanh_trinh_giac_mo",
-    desc: "hanh_trinh_giac_mo_desc",
-  },
-  {
-    date: "ngay_7_tháng_7_2024_20_00",
-    place: "place_tac_pham_cho_piano_va_Cello",
-    title: "tac_pham_cho_piano_va_Cello",
-    desc: "tac_pham_cho_piano_va_Cello_desc",
-  },
-  {
-    date: "ngay_4_tháng_5_2024_19_00",
-    place: "place_bieu_dien_hoc_vu",
-    title: "bieu_dien_hoc_vu",
-    desc: "bieu_dien_hoc_vu_desc",
-  },
+  // {
+  //   date: "ngay_29_thang_12_2024_19_00",
+  //   place: "place_tro_ve",
+  //   title: "tro_ve",
+  //   desc: "tro_ve_desc",
+  // },
+  // {
+  //   date: "ngay_15_tháng_12_2024_19_30",
+  //   place: "place_cuoc_tim_kiem",
+  //   title: "cuoc_tim_kiem",
+  //   desc: "cuoc_tim_kiem_desc",
+  // },
+  // {
+  //   date: "ngay_14_tháng_12_2024_18_30",
+  //   place: "place_hanh_trinh_giac_mo",
+  //   title: "hanh_trinh_giac_mo",
+  //   desc: "hanh_trinh_giac_mo_desc",
+  // },
+  // {
+  //   date: "ngay_7_tháng_7_2024_20_00",
+  //   place: "place_tac_pham_cho_piano_va_Cello",
+  //   title: "tac_pham_cho_piano_va_Cello",
+  //   desc: "tac_pham_cho_piano_va_Cello_desc",
+  // },
+  // {
+  //   date: "ngay_4_tháng_5_2024_19_00",
+  //   place: "place_bieu_dien_hoc_vu",
+  //   title: "bieu_dien_hoc_vu",
+  //   desc: "bieu_dien_hoc_vu_desc",
+  // },
 ];
 
 const openIndex = ref(null);

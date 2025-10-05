@@ -1,9 +1,11 @@
 <template>
   <header
-    class="bg-[#130000] text-white fixed top-0 left-0 w-full z-50 font-serif"
+    class="bg-[#130000] text-white fixed top-0 left-0 w-full z-50 font-serif h-16"
   >
     <div class="max-w-[1440px] mx-auto flex items-center justify-between p-4">
-      <h1 class="text-2xl font-bold">Hồ Khánh Vân</h1>
+      <div class="cursor-pointer" @click="router.push('/')">
+        <h1 class="text-2xl font-bold">Hồ Khánh Vân</h1>
+      </div>
       <button @click="isOpenMenu = !isOpenMenu">
         <svg
           class="w-6 h-6"
@@ -43,10 +45,10 @@
         tag="div"
         class="flex flex-col gap-4 text-center"
       >
-        <a class="hover:underline" href="">{{ $t('Ve_Van') }}</a>
-        <a href="#" class="hover:underline">{{ $t('Su_kien') }}</a>
+        <a class="hover:underline" href="/about">{{ $t('Ve_Van') }}</a>
+        <a href="/event" class="hover:underline">{{ $t('Su_kien') }}</a>
         <a href="#" class="hover:underline">{{ $t('Chuong_trinh_bieu_dien') }}</a>
-        <a href="#" class="hover:underline">{{ $t('Am_nhac') }}</a>
+        <a href="/music" class="hover:underline">{{ $t('Am_nhac') }}</a>
         <a href="#" class="hover:underline">{{ $t('Tin_tuc') }}</a>
         <a href="#" class="hover:underline">{{ $t('Hinh_anh') }}</a>
       </TransitionGroup>
@@ -56,6 +58,7 @@
   </header>
 </template>
 <script setup lang="ts">
+import router from "@/router";
 import { PhX } from "@phosphor-icons/vue";
 import { ref } from "vue";
 

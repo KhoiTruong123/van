@@ -25,7 +25,7 @@
       <section class="grid md:grid-cols-3 gap-8">
         <div class="md:col-span-1 space-y-4">
           <h2 class="text-3xl font-serif text-pink-900 leading-snug">
-            Lý lịch
+            {{ $t('Ly_lich_ngan') }}
           </h2>
           <!-- <p class="text-gray-600 font-medium">5/5/2024</p> -->
         </div>

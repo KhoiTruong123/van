@@ -5,9 +5,14 @@ import Topbar from './components/Topbar.vue';
 </script>
 
 <template>
-  <Topbar/>
-  <router-view/>
-  <FootBar />
+  <div class="flex flex-col">
+    <div>
+      <Topbar/>
+    </div>
+    <router-view/>
+    <FootBar />
+  </div>
+  
 
 </template>
 
