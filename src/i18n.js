@@ -58,7 +58,7 @@ Hồ Khánh Vân sinh năm 2002 trong một gia đình không có truyền thố
     place: "C. Bechstein Centrum, ChilehausHamburg, Đức",
     bieu_dien_tot_nghiep: "Chương trình độc tấu / Biểu diễn tốt nghiệp",
     mot_doi_nguoi: "Chương trình độc tấu / Một đời người",
-    place_mot_doi_nguoi:"John Robert Powers VN Tp. Hồ Chí Minh, Việt Nam",
+    place_mot_doi_nguoi: "John Robert Powers VN Tp. Hồ Chí Minh, Việt Nam",
     ly_tuong_song: "Chương trình độc tấu / Lý tưởng sống",
     ly_tuong_song_desc:
       "D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213\nW.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457\nF. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35\nL.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a",
@@ -79,8 +79,73 @@ Kết nối:
 - Instagram: https://www.instagram.com/hokhanhvanpianist/  
 - Spotify: https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l  
 - SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
-tac_pham_giao_huong:"Tác phẩm giao hưởng",
-tac_pham_giao_huong_noi_dung: "W.A. Mozart (1756-1791)\nBản Piano Concerto số 17 cung Sol trưởng, K. 453\nBản Piano Concerto số 20 cung Rê thứ, K. 466	\nBản Piano Concerto số 21 cung Đô trưởng, K. 467	\nBản Piano Concerto số 23 cung La trưởng, K. 488	\nL.v. Beethoven (1770-1827)\nBản Piano Concerto số 3 cung Đô thứ, Op. 37\nBản Piano Concerto số 4 cung Sol trưởng, Op. 58/nF. Chopin (1810-1849)\nBản Piano Concerto số 1 cung Mi thứ, Op. 11\nJ. Brahms (1833-1897)\nBản Piano Concerto số 2 cung Si-giáng trưởng, Op. 83	"
+    tac_pham_giao_huong: "Tác phẩm giao hưởng",
+    tac_pham_giao_huong_noi_dung:
+      "W.A. Mozart (1756-1791)\nBản Piano Concerto số 17 cung Sol trưởng, K. 453\nBản Piano Concerto số 20 cung Rê thứ, K. 466	\nBản Piano Concerto số 21 cung Đô trưởng, K. 467	\nBản Piano Concerto số 23 cung La trưởng, K. 488	\nL.v. Beethoven (1770-1827)\nBản Piano Concerto số 3 cung Đô thứ, Op. 37\nBản Piano Concerto số 4 cung Sol trưởng, Op. 58/nF. Chopin (1810-1849)\nBản Piano Concerto số 1 cung Mi thứ, Op. 11\nJ. Brahms (1833-1897)\nBản Piano Concerto số 2 cung Si-giáng trưởng, Op. 83	",
+    chuong_trinh_doc_tau: "Chương trình độc tấu",
+    chuong_trinh_doc_tau_noi_dung: `Chương trình VIII: Kết thúc cũng là khởi đầu 
+J.S. Bach/A. Stradal: Adagio từ Bản Sonata cho organ số 4 cung Mi thứ, BWV 528
+Chương trình VII: Lý tưởng sống
+D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
+W.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457
+F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
+L.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a
+Chương trình VI: Trở về 
+F. Mendelssohn (1809-1847): Bản số 1 cung Mi trưởng từ "Những bài ca không lời", Op. 19
+W.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457
+F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
+J.S. Bach/W. Kempff: Siciliano từ Bản Sonata cho sáo cung Mi-giáng trưởng, BWV 1031
+L.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a
+F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254
+Chương trình V: Cuộc tìm kiếm
+D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
+L.v. Beethoven (1770-1827): Bản Sonata cho piano số 23 cung Fa thứ, Op. 57
+F. Schubert/F. Liszt: "Der Müller und der Bach" từ "Die Schöne Müllerin", D 795 số 2
+R. Schumann (1810-1856): Bản Etude Giao hưởng, Op. 13
+Chương trình IV: Niềm tin
+J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ "Nghệ thuật của phức điệu", BWV 1080
+W.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457
+F. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op. 61
+M. Ravel (1875-1937): La Valse, M. 72
+Chương trình III: Một đời người
+J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ "Nghệ thuật của phức điệu", BWV 1080
+J. Haydn (1732-1809): Bản Sonata cho piano số 60 cung Đô trưởng , Hob/XVI: 50
+L.v. Beethoven (1770-1827): Bản Sonata cho piano số 23 cung Fa thứ, Op. 57
+F. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op .61
+Chương trình II: Sự tái ngộ
+D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
+F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
+J.S. Bach/W. Kempff: Siciliano từ Bản Sonata cho sáo cung Mi-giáng trưởng, BWV 1031
+L.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a
+Chương trình I: Hành trình giấc mơ
+D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 1
+F. Chopin (1810-1849): Bản Ballade số 4 cung Fa thứ, Op. 52
+L.v. Beethoven (1770-1827): Bản Sonata cho piano số 31 cung La-giáng trưởng, Op. 110
+F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254 `,
+    tac_pham_hoa_tau: "Tác phẩm hòa tấu",
+    tac_pham_hoa_tau_noi_dung: `W.A. Mozart (1756-1791)
+Bản Sonata cho hai piano cung Rê trưởng, K. 448
+Bản Trio cho Piano, Violin và Cello cung Đô trưởng, K. 548
+L.v. Beethoven (1770-1827)
+Bản Sonata cho Cello và Piano số 1 cung Fa trưởng, Op. 5
+Bản Sonata cho Violin và Piano số 4 cung La thứ, Op. 23
+F. Schubert (1797-1828)
+Bản Fantasy cung Fa thứ cho piano bốn tay, D 940
+Bản Sonata cho Violin và Piano số 4 cung La thứ, Op. 23
+F. Mendelssohn (1809-1847)
+Bản Trio cho Piano, Violin và Cello số 1 cung Rê thứ, Op. 49
+Bản Trio cho Piano, Violin và Cello số 2 cung Đô thứ, Op. 66 
+R. Schumann (1810-1856)
+Bản Sonata cho Violin và Piano số 1 cung La thứ, Op. 105
+F. Chopin (1810-1849)
+Bản Sonata cho Cello và Piano cung Sol thứ, Op. 65
+Bản Trio cho Piano, Violin và Cello số 2 cung Đô thứ, Op. 66 
+J. Brahms (1833-1897)
+Bản Trio cho Piano, Violin và Cello số 1 cung Si trưởng, Op. 8
+Bản Trio cho Piano, Violin và Cello số 2 cung Đô thứ, Op. 66 
+D. Shostakovich (1906-1975)
+Bản Trio cho Piano, Violin và Cello số 1 cung Đô thứ, Op. 8
+Bản Sonata cho Cello và Piano số 1 cung Rê thứ, Op. 40`,
   },
 
   en: {
@@ -113,8 +178,8 @@ Hồ Khánh Vân was born in 2002 to a into a family with no musical background 
     ngay_29_thang_12_2024_19_00: "December 29th, 2024 19:00",
     place_tro_ve: "Trung tam Van hoc Nghe thuat Ho Chi Minh City, Vietnam",
     tro_ve: "Piano Recital / The Return",
-    place_mot_doi_nguoi:"John Robert Powers VN Ho Chi Minh City, Vietnam",
-    place_ly_tuong_song:"John Robert Powers VN Tp. Hồ Chí Minh, Việt Nam",
+    place_mot_doi_nguoi: "John Robert Powers VN Ho Chi Minh City, Vietnam",
+    place_ly_tuong_song: "John Robert Powers VN Tp. Hồ Chí Minh, Việt Nam",
     tro_ve_desc:
       "F. Mendelssohn (1809-1847): Songs without words No. 1 in E major, Op. 19\nW.A. Mozart (1756-1791): Piano Sonata No. 14 in C minor, K. 457\nF. Chopin (1810-1849): Piano Sonata No. 2 in B-flat minor, Op. 35\nL.v. Beethoven (1770-1827): Piano Sonata No. 26 in E-flat major, Op. 81a\nF. Liszt (1811-1886): Rhapsodie Espagnole, S. 254  ",
     ngay_15_tháng_12_2024_19_30: "December 15th, 2024 19:30",
@@ -162,6 +227,12 @@ Connect:
 - Instagram: https://www.instagram.com/hokhanhvanpianist/  
 - Spotify: https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l  
 - SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
+    tac_pham_giao_huong: "Symphonic Works",
+    tac_pham_giao_huong_noi_dung:
+      "W.A. Mozart (1756-1791)\nPiano Concerto No. 17 in G major, K. 453\nPiano Concerto No. 20 in D minor, K. 466	\nPiano Concerto No. 21 in C major, K. 467	\nPiano Concerto No. 23 in A major, K. 488	\nL.v. Beethoven (1770-1827)\nPiano Concerto No. 3 in C minor, Op. 37\nPiano Concerto No. 4 in G major, Op. 58/nF. Chopin (1810-1849)\nPiano Concerto No. 1 in E minor, Op. 11\nJ. Brahms (1833-1897)\nPiano Concerto No. 2 in B-flat major, Op. 83	",
+    chuong_trinh_doc_tau: "Solo Programs",
+    chuong_trinh_doc_tau_noi_dung: `
+`,
   },
   de: {
     Trang_chu: "Home",
@@ -187,8 +258,8 @@ Hồ Khánh Vân wurde in 2002 von einer nicht-musikalischen Familie in Ho-Chi-M
     ngay_2_tháng_1_2025_20_30: "2. Januar 2025 - 20:30",
     ngay_2_tháng_1_2025_17_30: "2. Januar 2025 - 17:30",
     ngay_4_thang_7_2025_20_30: "4 tháng 7 năm 2025 - 20:30",
-    place_mot_doi_nguoi:"John Robert Powers VN Ho Chi Minh Stadt, Vietnam",
-    place_ly_tuong_song:"John Robert Powers VN Ho Chi Minh City, Vietnam",
+    place_mot_doi_nguoi: "John Robert Powers VN Ho Chi Minh Stadt, Vietnam",
+    place_ly_tuong_song: "John Robert Powers VN Ho Chi Minh City, Vietnam",
     place_bieu_dien_tot_nghiep:
       "C. Bechstein Centrum, Chilehaus Hamburg, Deutschland",
     ngay_29_thang_12_2024_19_00:
@@ -244,6 +315,9 @@ Verbinden:
 - Instagram: https://www.instagram.com/hokhanhvanpianist/  
 - Spotify: https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l  
 - SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
+    tac_pham_giao_huong: "Symphonische Werke",
+    tac_pham_giao_huong_noi_dung:
+      "W.A. Mozart (1756-1791)\nKlavierkonzert Nr. 17 in G-Dur, K. 453\nKlavierkonzert Nr. 20 in d-Moll, K. 466	\nKlavierkonzert Nr. 21 in C-Dur, K. 467	\nKlavierkonzert Nr. 23 in A-Dur, K. 488	\nL.v. Beethoven (1770-1827)\nKlavierkonzert Nr. 3 in c-Moll, op. 37\nKlavierkonzert Nr. 4 in G-Dur, op. 58/nF. Chopin (1810-1849)\nKlavierkonzert Nr. 1 in e-Moll, op. 11\nJ. Brahms (1833-1897)\nKlavierkonzert Nr. 2 in B-Dur, op. 83	",
   },
 };
 

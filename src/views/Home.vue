@@ -5,7 +5,7 @@
       <div class="absolute inset-0 bg-black/30 flex flex-col justify-center">
         <div class="ml-[10%]">
           <p class="text-[#9D0602] text-2xl md:text-5xl font-bold font-serif">Hồ Khánh Vân</p>
-          <p class="text-[#9D0602] text-2xl md:text-5xl font-serif mb-[10%]">Pinanist</p>
+          <p class="text-[#9D0602] text-2xl md:text-5xl font-serif mb-[10%]">Pianist</p>
           <p class="text-white font-serif text-lg md:text-2xl">"Music starts to breathe,<br>when one lives their life to
             the fullest"</p>
         </div>

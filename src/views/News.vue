@@ -3,7 +3,7 @@
         <div class="mx-auto">
             <img class="w-full" src="/src/assets/images/Image_tin_tuc.png" alt="">
             <h2 class="text-3xl font-bold text-center text-[#950032] mt-16 mb-16">{{ $t('Tin_tuc') }}</h2>
-            <div class="flex flex-col justify-center items-center gap-6 max-w-[900px] mx-auto">
+            <div class="flex flex-col justify-center items-center gap-6 max-w-[1200px] mx-auto">
                 <div v-for="newsItem in news" class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
                     <img class="w-[100%]" :src="newsItem.img" alt="">
                     <div class="flex flex-col gap-4">
