@@ -49,8 +49,8 @@
         <a href="/event" class="hover:underline">{{ $t('Su_kien') }}</a>
         <a href="/program" class="hover:underline">{{ $t('Chuong_trinh_bieu_dien') }}</a>
         <a href="/music" class="hover:underline">{{ $t('Am_nhac') }}</a>
-        <a href="#" class="hover:underline">{{ $t('Tin_tuc') }}</a>
-        <a href="#" class="hover:underline">{{ $t('Hinh_anh') }}</a>
+        <a href="/news" class="hover:underline">{{ $t('Tin_tuc') }}</a>
+        <a href="/gallery" class="hover:underline">{{ $t('Hinh_anh') }}</a>
       </TransitionGroup>
         
       </nav>

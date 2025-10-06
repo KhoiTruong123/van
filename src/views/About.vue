@@ -16,7 +16,7 @@
         </div>
         <!-- Ảnh -->
         <div class="flex justify-center">
-          <img src="/src/assets/images/about.png" alt="Vân"
+          <img src="/src/assets/images/tieu_su.png" alt="Vân"
             class="rounded-2xl shadow-lg max-w-xl w-full object-cover" />
         </div>
       </section>
@@ -29,7 +29,7 @@
           </h2>
           <!-- <p class="text-gray-600 font-medium">5/5/2024</p> -->
         </div>
-        <div class="md:col-span-2 space-y-4 text-gray-700 leading-relaxed">
+        <div  style="white-space: pre-line" class="md:col-span-2 space-y-4 text-gray-700 leading-relaxed">
           {{ $t('Ly_lich') }}
         </div>
       </section>

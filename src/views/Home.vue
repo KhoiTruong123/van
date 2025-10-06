@@ -22,13 +22,12 @@
         <EventCard />
       </div>
       <div class="flex justify-center mt-6">
-        <button class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]">
+        <button @click="targetToPage('/event')" class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]">
           <div class="flex items-center">
             <span class="text-xl uppercase mr-4">{{ $t('xem_them') }}</span><span class="bg-white rounded-2xl h-[90%]">
               <PhArrowUpRight class="text-[#8d3e3e]" :size="30" />
             </span>
           </div>
-
         </button>
       </div>
     </section>
@@ -52,7 +51,7 @@
         ]"></button>
       </div>
       <div class="flex justify-center mt-6">
-        <button class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]">
+        <button @click="targetToPage('/music')" class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]">
           <div class="flex items-center">
             <span class="text-xl uppercase mr-4">{{ $t('xem_them') }}</span><span class="bg-white rounded-2xl h-[90%]">
               <PhArrowUpRight class="text-[#8d3e3e]" :size="30" />
@@ -79,7 +78,7 @@
         ]"></button>
       </div>
       <div class="flex justify-center mt-6">
-        <button class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]">
+        <button @click="targetToPage('/news')" class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e]">
           <div class="flex items-center">
             <span class="text-xl uppercase mr-4">{{ $t('xem_them') }}</span><span class="bg-white rounded-2xl h-[90%]">
               <PhArrowUpRight class="text-[#8d3e3e]" :size="30" />
@@ -127,6 +126,8 @@ import MusicCard from "@/components/MusicCard.vue";
 import NewsCard from "@/components/NewsCard.vue";
 import { PhArrowUpRight } from "@phosphor-icons/vue";
 import { ref } from "vue";
+import router from "@/router";
+
 const sliderMusic = ref(null);
 const sliderNews = ref(null);
 const currentMusicCard = ref(0);
@@ -154,7 +155,7 @@ const musicList = [{
 ];
 const news = [{
   title: "Klavierabend",
-  date: "04.07.2025",
+  date: "04/07/2025",
   img: "/src/assets/images/tin_tuc_1.jpg",
   desc: "Bachelorprüfung von Hồ Khánh Vân",
   link: "https://www.hfmt-hamburg.de/hochschule/aktuelles/veranstaltungen/12381-2025-07-04-klavierabend"
@@ -175,7 +176,7 @@ const news = [{
 },
 {
   title: "Grande successo per il 26mo concorso pianistico 'Premio Mauro Monopoli'",
-  date: "05 Jun 2025",
+  date: "05/06/2025",
   img: "/src/assets/images/tin_tuc_3.jpg",
   desc: "Vince la pianista vietnamita Ho Khanh Van",
   link: "https://www.barlettaviva.it/notizie/grande-successo-per-il-26mo-concorso-pianistico-premio-mauro-monopoli/"
@@ -197,5 +198,7 @@ function goToSlide(index, type) {
   }
 
 }
-
+const targetToPage = (url: string) => {
+  router.push(url);
+};
 </script>

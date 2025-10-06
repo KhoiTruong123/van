@@ -8,8 +8,7 @@
                 <div class="flex justify-center">
                     <div class="max-w-[1200px] grid grid-cols-1 md:grid-cols-3 gap-24 mx-auto w-full">
                         <h3 class="font-semibold text-3xl text-[#950032]">{{ $t('tac_pham_giao_huong') }}</h3>
-                        <div style="white-space: pre-line" class="text-[#572219] col-span-2">
-                            {{ $t('tac_pham_giao_huong_noi_dung') }}
+                        <div v-html="$t('tac_pham_giao_huong_noi_dung')" style="white-space: pre-line" class="text-[#572219] col-span-2">
                         </div>
                     </div>
                 </div>
