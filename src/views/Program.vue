@@ -20,8 +20,7 @@
                         <h3 class="font-semibold text-3xl text-[#950032] ">{{ $t('chuong_trinh_doc_tau') }}</h3>
                     </div>
                     
-                    <div style="white-space: pre-line" class="text-[#572219] col-span-2">
-                        {{ $t('chuong_trinh_doc_tau_noi_dung') }}
+                    <div v-html="$t('chuong_trinh_doc_tau_noi_dung')" style="white-space: pre-line" class="text-[#572219] col-span-2">
                     </div>
                 </div>
             </div>

@@ -83,41 +83,41 @@ Kết nối:
                 tac_pham_giao_huong_noi_dung:
                         "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nBản Piano Concerto số 17 cung Sol trưởng, K. 453\nBản Piano Concerto số 20 cung Rê thứ, K. 466	\nBản Piano Concerto số 21 cung Đô trưởng, K. 467	\nBản Piano Concerto số 23 cung La trưởng, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nBản Piano Concerto số 3 cung Đô thứ, Op. 37\nBản Piano Concerto số 4 cung Sol trưởng, Op. 58\n<strong style='color:#572219;font-size:22px'>F.Chopin (1810-1849)</strong>\nBản Piano Concerto số 1 cung Mi thứ, Op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nBản Piano Concerto số 2 cung Si-giáng trưởng, Op. 83	",
                 chuong_trinh_doc_tau: "Chương trình độc tấu",
-                chuong_trinh_doc_tau_noi_dung: `Chương trình VIII: Kết thúc cũng là khởi đầu 
+                chuong_trinh_doc_tau_noi_dung: `<strong style='color:#572219;font-size:22px'>Chương trình VIII: Kết thúc cũng là khởi đầu</strong>
 J.S. Bach/A. Stradal: Adagio từ Bản Sonata cho organ số 4 cung Mi thứ, BWV 528
-Chương trình VII: Lý tưởng sống
+<strong style='color:#572219;font-size:22px'>Chương trình VII: Lý tưởng sống</strong>
 D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
 W.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457
 F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a
-Chương trình VI: Trở về 
+<strong style='color:#572219;font-size:22px'>Chương trình VI: Trở về </strong>
 F. Mendelssohn (1809-1847): Bản số 1 cung Mi trưởng từ "Những bài ca không lời", Op. 19
 W.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457
 F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
 J.S. Bach/W. Kempff: Siciliano từ Bản Sonata cho sáo cung Mi-giáng trưởng, BWV 1031
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a
 F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254
-Chương trình V: Cuộc tìm kiếm
+<strong style='color:#572219;font-size:22px'>Chương trình V: Cuộc tìm kiếm</strong>
 D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 23 cung Fa thứ, Op. 57
 F. Schubert/F. Liszt: "Der Müller und der Bach" từ "Die Schöne Müllerin", D 795 số 2
 R. Schumann (1810-1856): Bản Etude Giao hưởng, Op. 13
-Chương trình IV: Niềm tin
+<strong style='color:#572219;font-size:22px'>Chương trình IV: Niềm tin</strong>
 J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ "Nghệ thuật của phức điệu", BWV 1080
 W.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457
 F. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op. 61
 M. Ravel (1875-1937): La Valse, M. 72
-Chương trình III: Một đời người
+<strong style='color:#572219;font-size:22px'>Chương trình III: Một đời người</strong>
 J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ "Nghệ thuật của phức điệu", BWV 1080
 J. Haydn (1732-1809): Bản Sonata cho piano số 60 cung Đô trưởng , Hob/XVI: 50
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 23 cung Fa thứ, Op. 57
 F. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op .61
-Chương trình II: Sự tái ngộ
+<strong style='color:#572219;font-size:22px'>Chương trình II: Sự tái ngộ</strong>
 D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
 F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
 J.S. Bach/W. Kempff: Siciliano từ Bản Sonata cho sáo cung Mi-giáng trưởng, BWV 1031
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 26 cung Mi-giáng trưởng, Op. 81a
-Chương trình I: Hành trình giấc mơ
+<strong style='color:#572219;font-size:22px'>Chương trình I: Hành trình giấc mơ</strong>
 D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 1
 F. Chopin (1810-1849): Bản Ballade số 4 cung Fa thứ, Op. 52
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 31 cung La-giáng trưởng, Op. 110
@@ -228,7 +228,7 @@ Connect:
 - SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
                 tac_pham_giao_huong: "Symphonic Works",
                 tac_pham_giao_huong_noi_dung:
-                        "W.A. Mozart (1756-1791)\nPiano Concerto No. 17 in G major, K. 453\nPiano Concerto No. 20 in D minor, K. 466	\nPiano Concerto No. 21 in C major, K. 467	\nPiano Concerto No. 23 in A major, K. 488	\nL.v. Beethoven (1770-1827)\nPiano Concerto No. 3 in C minor, Op. 37\nPiano Concerto No. 4 in G major, Op. 58/nF. Chopin (1810-1849)\nPiano Concerto No. 1 in E minor, Op. 11\nJ. Brahms (1833-1897)\nPiano Concerto No. 2 in B-flat major, Op. 83	",
+                        "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nPiano Concerto No. 17 in G major, K. 453\nPiano Concerto No. 20 in D minor, K. 466	\nPiano Concerto No. 21 in C major, K. 467	\nPiano Concerto No. 23 in A major, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nPiano Concerto No. 3 in C minor, Op. 37\nPiano Concerto No. 4 in G major, Op. 58\n<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>\nPiano Concerto No. 1 in E minor, Op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nPiano Concerto No. 2 in B-flat major, Op. 83	",
                 chuong_trinh_doc_tau: "Solo Programs",
                 chuong_trinh_doc_tau_noi_dung: `
 `,
@@ -315,7 +315,7 @@ Verbinden:
 - SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
                 tac_pham_giao_huong: "Symphonische Werke",
                 tac_pham_giao_huong_noi_dung:
-                        "W.A. Mozart (1756-1791)\nKlavierkonzert Nr. 17 in G-Dur, K. 453\nKlavierkonzert Nr. 20 in d-Moll, K. 466	\nKlavierkonzert Nr. 21 in C-Dur, K. 467	\nKlavierkonzert Nr. 23 in A-Dur, K. 488	\nL.v. Beethoven (1770-1827)\nKlavierkonzert Nr. 3 in c-Moll, op. 37\nKlavierkonzert Nr. 4 in G-Dur, op. 58/nF. Chopin (1810-1849)\nKlavierkonzert Nr. 1 in e-Moll, op. 11\nJ. Brahms (1833-1897)\nKlavierkonzert Nr. 2 in B-Dur, op. 83	",
+                        "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nKlavierkonzert Nr. 17 in G-Dur, K. 453\nKlavierkonzert Nr. 20 in d-Moll, K. 466	\nKlavierkonzert Nr. 21 in C-Dur, K. 467	\nKlavierkonzert Nr. 23 in A-Dur, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nKlavierkonzert Nr. 3 in c-Moll, op. 37\nKlavierkonzert Nr. 4 in G-Dur, op. 58\n<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>\nKlavierkonzert Nr. 1 in e-Moll, op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nKlavierkonzert Nr. 2 in B-Dur, op. 83	",
         },
 };
 
