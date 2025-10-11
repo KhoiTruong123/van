@@ -51,6 +51,7 @@
         <a href="/music" class="hover:underline">{{ $t('Am_nhac') }}</a>
         <a href="/news" class="hover:underline">{{ $t('Tin_tuc') }}</a>
         <a href="/gallery" class="hover:underline">{{ $t('Hinh_anh') }}</a>
+        <a href="/contact" class="hover:underline">{{ $t('Lien_he') }}</a>
       </TransitionGroup>
         
       </nav>

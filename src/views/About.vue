@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center font-serif py-20">
+  <div class="flex justify-center items-center font-notoSerifDisplay py-20">
     <div class="max-w-[1440px] mx-auto px-4 py-12 flex flex-col gap-20">
       <!-- Phần About -->
       <section class="grid md:grid-cols-2 gap-8 items-center">

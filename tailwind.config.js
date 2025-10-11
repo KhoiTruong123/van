@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         serif: ['"Noto Serif"', 'serif'],
+        notoSerifDisplay: ['"Noto Serif Display"', 'serif'],
       },
     },
   },

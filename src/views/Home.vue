@@ -4,16 +4,16 @@
       <img src="/src//assets/images/hinh_anh_trang_chu.png" class="w-full h-full" alt="hero" />
       <div class="absolute inset-0 bg-black/30 flex flex-col justify-center">
         <div class="ml-[10%]">
-          <p class="text-[#9D0602] text-2xl md:text-5xl font-bold font-serif">Hồ Khánh Vân</p>
-          <p class="text-[#9D0602] text-2xl md:text-5xl font-serif mb-[10%]">Pianist</p>
-          <p class="text-white font-serif text-lg md:text-2xl">"Music starts to breathe,<br>when one lives their life to
+          <p class="text-[#9D0602] text-2xl md:text-5xl font-bold font-notoSerifDisplay">Hồ Khánh Vân</p>
+          <p class="text-[#9D0602] text-2xl md:text-5xl font-notoSerifDisplay mb-[10%]">Pianist</p>
+          <p class="text-white font-notoSerifDisplay text-lg md:text-2xl">"Music starts to breathe,<br>when one lives their life to
             the fullest"</p>
         </div>
       </div>
     </section>
 
     <!-- Sự kiện -->
-    <section class="max-w-[1440px] mx-auto px-4 py-16 font-serif">
+    <section class="max-w-[1440px] mx-auto px-4 py-16 font-notoSerifDisplay">
       <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
         {{ $t('Su_kien') }}
       </h2>
@@ -33,7 +33,7 @@
     </section>
 
     <!-- Am_nhac -->
-    <section class="py-16 font-serif">
+    <section class="py-16 font-notoSerifDisplay">
       <div class="w-full mx-auto px-4">
         <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
           {{ $t('Am_nhac') }}
@@ -62,7 +62,7 @@
     </section>
 
     <!-- Tin tức -->
-    <section class="max-w-[1440px] mx-auto px-4 py-16 font-serif">
+    <section class="max-w-[1440px] mx-auto px-4 py-16 font-notoSerifDisplay">
       <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
         {{ $t('Tin tức') }}
       </h2>
@@ -89,7 +89,7 @@
     </section>
 
     <!-- Hình ảnh -->
-    <!-- <section class="bg-white py-16 font-serif">
+    <!-- <section class="bg-white py-16 font-notoSerifDisplay">
     <div class="max-w-[1440px] mx-auto px-4">
       <h2
         class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8"

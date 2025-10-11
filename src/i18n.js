@@ -123,31 +123,38 @@ F. Chopin (1810-1849): Bản Ballade số 4 cung Fa thứ, Op. 52
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 31 cung La-giáng trưởng, Op. 110
 F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254 `,
                 tac_pham_hoa_tau: "Tác phẩm hòa tấu",
-                tac_pham_hoa_tau_noi_dung: `W.A. Mozart (1756-1791)
+                tac_pham_hoa_tau_noi_dung: `<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>
 Bản Sonata cho hai piano cung Rê trưởng, K. 448
 Bản Trio cho Piano, Violin và Cello cung Đô trưởng, K. 548
-L.v. Beethoven (1770-1827)
+<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>
 Bản Sonata cho Cello và Piano số 1 cung Fa trưởng, Op. 5
 Bản Sonata cho Violin và Piano số 4 cung La thứ, Op. 23
-F. Schubert (1797-1828)
+<strong style='color:#572219;font-size:22px'>F. Schubert (1797-1828)</strong>
 Bản Fantasy cung Fa thứ cho piano bốn tay, D 940
 Bản Sonata cho Violin và Piano số 4 cung La thứ, Op. 23
-F. Mendelssohn (1809-1847)
+<strong style='color:#572219;font-size:22px'>F. Mendelssohn (1809-1847)</strong>
 Bản Trio cho Piano, Violin và Cello số 1 cung Rê thứ, Op. 49
 Bản Trio cho Piano, Violin và Cello số 2 cung Đô thứ, Op. 66 
-R. Schumann (1810-1856)
+<strong style='color:#572219;font-size:22px'>R. Schumann (1810-1856)</strong>
 Bản Sonata cho Violin và Piano số 1 cung La thứ, Op. 105
-F. Chopin (1810-1849)
+<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>
 Bản Sonata cho Cello và Piano cung Sol thứ, Op. 65
 Bản Trio cho Piano, Violin và Cello số 2 cung Đô thứ, Op. 66 
-J. Brahms (1833-1897)
+<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>
 Bản Trio cho Piano, Violin và Cello số 1 cung Si trưởng, Op. 8
 Bản Trio cho Piano, Violin và Cello số 2 cung Đô thứ, Op. 66 
-D. Shostakovich (1906-1975)
+<strong style='color:#572219;font-size:22px'>D. Shostakovich (1906-1975)</strong>
 Bản Trio cho Piano, Violin và Cello số 1 cung Đô thứ, Op. 8
 Bản Sonata cho Cello và Piano số 1 cung Rê thứ, Op. 40`,
-        },
+ke_chuyen_cua_ban:" Kể chuyện của bạn",
+chia_se_cau_chuyen_cua_ban: "Hãy chia sẻ câu chuyện của bạn!",
+ke_chuyen_cua_ban_noi_dung:`Mỗi một chủ đề được kể trong các buổi diễn được bắt nguồn từ những câu chuyện và trải nghiệm chân thực trong cuộc sống mà Khánh Vân may mắn có dịp được lắng nghe và thấu hiểu. 
 
+Do đó, để có thể mang đến nhiều chương trình độc tấu ý nghĩa và sâu sắc hơn nữa, Khánh Vân hi vọng sẽ được nghe thêm nhiều những lời chia sẻ chân thành và những nỗi tâm sự nơi đáy lòng của mọi người trong tương lai. 
+
+Mọi người có thể gửi những tâm thư qua mail hokhanhvanpianist@gmail.com ạ. Khánh Vân xin cảm ơn sự đồng hành của các khán giả đã luôn đặt niềm tin và tiếp động lực cho mình trong hành trình âm nhạc này!`,
+lien_he_voi_minh: "Liên hệ với mình nhé!"
+        },
         en: {
                 Trang_chu: "Homepage",
                 Su_kien: "Events",
@@ -230,8 +237,76 @@ Connect:
                 tac_pham_giao_huong_noi_dung:
                         "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nPiano Concerto No. 17 in G major, K. 453\nPiano Concerto No. 20 in D minor, K. 466	\nPiano Concerto No. 21 in C major, K. 467	\nPiano Concerto No. 23 in A major, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nPiano Concerto No. 3 in C minor, Op. 37\nPiano Concerto No. 4 in G major, Op. 58\n<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>\nPiano Concerto No. 1 in E minor, Op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nPiano Concerto No. 2 in B-flat major, Op. 83	",
                 chuong_trinh_doc_tau: "Solo Programs",
-                chuong_trinh_doc_tau_noi_dung: `
-`,
+                chuong_trinh_doc_tau_noi_dung: `<strong style='color:#572219;font-size:22px'>Program VIII: Faith</strong>
+                J.S. Bach/A. Stradal: Adagio from Organ Sonata No. 4 in E minor, BWV 528
+                <strong style='color:#572219;font-size:22px'>Program VII: The Tenacity of Life</strong>
+                D. Scarlatti (1685-1757): Sonata for Keyboard in D minor, K. 213
+                W.A. Mozart (1756-1791): Piano Sonata No. 14 in C minor, K. 457
+                F. Chopin (1810-1849): Piano Sonata No. 2 in B-flat minor, Op. 35
+                L.v. Beethoven (1770-1827): Piano Sonata No. 26 in E-flat major, Op. 81a
+                <strong style='color:#572219;font-size:22px'>Program VI: The Return </strong>
+                F. Mendelssohn (1809-1847): Songs without words No. 1 in E major, Op. 19
+                W.A. Mozart (1756-1791): Piano Sonata No. 14 in C minor, K. 457
+                F. Chopin (1810-1849): Piano Sonata No. 2 in B-flat minor, Op. 35
+                J.S. Bach/W. Kempff: Siciliano from Flute Sonata in E-flat major, BWV 1031
+                L.v. Beethoven (1770-1827): Piano Sonata No. 26 in E-flat major, Op. 81a
+                F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254
+                <strong style='color:#572219;font-size:22px'>Program V: The Search</strong>
+                D. Scarlatti (1685-1757): Sonata for Keyboard in D minor, K. 213
+                L.v. Beethoven (1770-1827): Piano Sonata No. 23 in F minor, Op. 57
+                F. Schubert/F. Liszt: 'Der Müller und der Bach' from 'Die Schöne Müllerin', D 795 No. 2
+                R. Schumann (1810-1856): Symphonic Etudes, Op. 13
+                <strong style='color:#572219;font-size:22px'>Program IV: Faith</strong>
+                J.S. Bach (1685-1750): Contrapunctus I from 'The Art of Fugue', BWV 1080
+                W.A. Mozart (1756-1791): Piano Sonata No. 14 in C minor, K. 457
+                F. Chopin (1810-1849): Polonaise-Fantasie in A-flat major, Op. 61
+                M. Ravel (1875-1937): La Valse, M. 72
+                <strong style='color:#572219;font-size:22px'>Program III: A Human's Life</strong>
+                J.S. Bach (1685-1750): Contrapunctus I from 'The Art of Fugue', BWV 1080
+                J. Haydn (1732-1809): Piano Sonata No. 60 in C major, Hob/XVI: 50
+                L.v. Beethoven (1770-1827): Piano Sonata No. 23 in F minor, Op. 57
+                F. Chopin (1810-1849): Polonaise-Fantasie in A-flat major, Op. 61
+                <strong style='color:#572219;font-size:22px'>Program II: The Reunion</strong>
+                D. Scarlatti (1685-1757): Sonata for Keyboard in D minor, K. 213
+                F. Chopin (1810-1849): Piano Sonata No. 2 in B-flat minor, Op. 35
+                J.S. Bach/W. Kempff: Siciliano from Flute Sonata in E-flat major, BWV 1031
+                L.v. Beethoven (1770-1827): Piano Sonata No. 26 in E-flat major, Op. 81a
+                <strong style='color:#572219;font-size:22px'>Program I: Journey of Dreams</strong>
+                D. Scarlatti (1685-1757): Sonata for Keyboard in D minor, K. 1
+                F. Chopin (1810-1849): Ballade No. 4 in F minor, Op. 52
+                L.v. Beethoven (1770-1827): Piano Sonata No. 31 in A-flat major, Op. 110
+                F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254
+                `,
+                tac_pham_hoa_tau: "Chamber Music Works",
+                tac_pham_hoa_tau_noi_dung: `<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>
+                Sonata for Two Pianos in D major, K. 448
+                Piano Trio in C major, K. 548
+                <strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>
+                Sonata for Cello and Piano No. 1 in F major, Op. 5
+                Sonata for Violin and Piano No. 4 in A minor, Op. 23
+                <strong style='color:#572219;font-size:22px'>F. Schubert (1797-1828)</strong>
+                Fantasy in F minor for Piano Four Hands, D 940
+                Sonata for Violin and Piano No. 4 in A minor, Op. 23
+                <strong style='color:#572219;font-size:22px'>F. Mendelssohn (1809-1847)</strong>
+                Piano Trio No. 1 in D minor, Op. 49
+                Piano Trio No. 2 in C major, Op. 66
+                <strong style='color:#572219;font-size:22px'>R. Schumann (1810-1856)</strong>
+                Sonata for Violin and Piano No. 1 in A minor, Op. 105
+                <strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>
+                Sonata for Cello and Piano in G minor, Op. 65
+                Piano Trio No. 2 in C major, Op. 66
+                <strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>
+                Piano Trio No. 1 in B major, Op. 8
+                Piano Trio No. 2 in C major, Op. 66
+                <strong style='color:#572219;font-size:22px'>D. Shostakovich (1906-1975)</strong>
+                Piano Trio No. 1 in C minor, Op. 8
+                Sonata for Cello and Piano No. 1 in D minor, Op. 40`,
+                ke_chuyen_cua_ban:" Tell your story",
+                chia_se_cau_chuyen_cua_ban: "Voice your stories through music!",
+                ke_chuyen_cua_ban_noi_dung:`Every story shared in these intimate piano recitals all started with those, whose real-life stories and experiences I had the precious opportunity to be told and was inspired to convey them into these deeply profound music programs.
+
+Therefore, your life - your story can be as well shared with me via this contact mail hokhanhvanpianist@gmail.com . It is my greatest honor as an artist to be inspired by your life stories in order to continuously deliver meaningful messages through music!`,
+                lien_he_voi_minh: "Let's stay in touch!"
         },
         de: {
                 Trang_chu: "Home",
@@ -316,6 +391,78 @@ Verbinden:
                 tac_pham_giao_huong: "Symphonische Werke",
                 tac_pham_giao_huong_noi_dung:
                         "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nKlavierkonzert Nr. 17 in G-Dur, K. 453\nKlavierkonzert Nr. 20 in d-Moll, K. 466	\nKlavierkonzert Nr. 21 in C-Dur, K. 467	\nKlavierkonzert Nr. 23 in A-Dur, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nKlavierkonzert Nr. 3 in c-Moll, op. 37\nKlavierkonzert Nr. 4 in G-Dur, op. 58\n<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>\nKlavierkonzert Nr. 1 in e-Moll, op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nKlavierkonzert Nr. 2 in B-Dur, op. 83	",
+                chuong_trinh_doc_tau: "Solo Programme",
+                chuong_trinh_doc_tau_noi_dung: `<strong style='color:#572219;font-size:22px'>Programm VIII: Glaube</strong>
+                J.S. Bach/A. Stradal: Adagio aus der Orgelsonate Nr. 4 in e-Moll, BWV 528
+                <strong style='color:#572219;font-size:22px'>Programm VII: Lebenswille</strong>
+                D. Scarlatti (1685-1757): Sonate in d-Moll, K. 213
+                W.A. Mozart (1756-1791): Klaviersonate Nr. 14 in c-Moll, K. 457
+                F. Chopin (1810-1849): Klaviersonate Nr. 2 in b-Moll, op. 35
+                L.v. Beethoven (1770-1827): Klaviersonate Nr. 26 in Es-Dur, op. 81a
+                <strong style='color:#572219;font-size:22px'>Programm VI: Wiederkehr</strong>
+                F. Mendelssohn (1809-1847): Lieder ohne Worte Nr. 1 in E-Dur, op. 19
+                W.A. Mozart (1756-1791): Klaviersonate Nr. 14 in c-Moll, K. 457
+                F. Chopin (1810-1849): Klaviersonate Nr. 2 in b-Moll, op. 35
+                J.S. Bach/W. Kempff: Siciliano aus der Flötensonate in Es-Dur, BWV 1031
+                L.v. Beethoven (1770-1827): Klaviersonate Nr. 26 in Es-Dur, op. 81a
+                F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254
+                <strong style='color:#572219;font-size:22px'>Programm V: Die Suche</strong>
+                D. Scarlatti (1685-1757): Sonate in d-Moll, K. 213
+                L.v. Beethoven (1770-1827): Klaviersonate Nr. 23 in f-Moll, op. 57
+                F. Schubert/F. Liszt: 'Der Müller und der Bach' aus 'Die Schöne Müllerin', D 795 Nr. 2
+                R. Schumann (1810-1856): Symphonische Etüden, op. 13
+                <strong style='color:#572219;font-size:22px'>Programm IV: Glaube</strong>
+                J.S. Bach (1685-1750): Kontrapunktus I aus 'Die Kunst der Fuge', BWV 1080
+                W.A. Mozart (1756-1791): Klaviersonate Nr. 14 in c-Moll, K. 457
+                F. Chopin (1810-1849): Polonaise-Fantasie in As-Dur, op. 61
+                M. Ravel (1875-1937): La Valse, M. 72
+                <strong style='color:#572219;font-size:22px'>Programm III: Ein Menschenleben</strong>
+                J.S. Bach (1685-1750): Kontrapunktus I aus 'Die Kunst der Fuge', BWV 1080
+                J. Haydn (1732-1809): Klaviersonate Nr. 60 in C-Dur, Hob/XVI: 50
+                L.v. Beethoven (1770-1827): Klaviersonate Nr. 23 in f-Moll, op. 57
+                F. Chopin (1810-1849): Polonaise-Fantasie in As-Dur, op. 61
+                <strong style='color:#572219;font-size:22px'>Programm II: Die Wiedervereinigung</strong>
+                D. Scarlatti (1685-1757): Sonate in d-Moll, K. 213
+                F. Chopin (1810-1849): Klaviersonate Nr. 2 in b-Moll, op. 35
+                J.S. Bach/W. Kempff: Siciliano aus der Flötensonate in Es-Dur, BWV 1031
+                L.v. Beethoven (1770-1827): Klaviersonate Nr. 26 in Es-Dur, op. 81a
+                <strong style='color:#572219;font-size:22px'>Programm I: Traumreise</strong>
+                D. Scarlatti (1685-1757): Sonate in d-Moll, K. 1
+                F. Chopin (1810-1849): Ballade Nr. 4 in f-Moll, op. 52
+                L.v. Beethoven (1770-1827): Klaviersonate Nr. 31 in As-Dur, op. 110
+                F. Liszt (1811-1886): Rhapsodie Espagnole, S. 254
+                `,
+                tac_pham_hoa_tau: "Kammermusikalische Werke",
+                tac_pham_hoa_tau_noi_dung: `<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>
+                Sonate für zwei Klaviere in D-Dur, K. 448
+                Klaviertrio in C-Dur, K. 548
+                <strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>
+                Sonate für Cello und Klavier Nr. 1 in F-Dur, op. 5
+                Sonate für Violine und Klavier Nr. 4 in a-Moll, op. 23
+                <strong style='color:#572219;font-size:22px'>F. Schubert (1797-1828)</strong>
+                Fantasie in f-Moll für Klavier zu vier Händen, D 940
+                Sonate für Violine und Klavier Nr. 4 in a-Moll, op. 23
+                <strong style='color:#572219;font-size:22px'>F. Mendelssohn (1809-1847)</strong>
+                Klaviertrio Nr. 1 in d-Moll, op. 49
+                Klaviertrio Nr. 2 in C-Dur, op. 66
+                <strong style='color:#572219;font-size:22px'>R. Schumann (1810-1856)</strong>
+                Sonate für Violine und Klavier Nr. 1 in a-Moll, op. 105
+                <strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>
+                Sonate für Cello und Klavier in g-Moll, op. 65
+                Klaviertrio Nr. 2 in C-Dur, op. 66
+                <strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>
+                Klaviertrio Nr. 1 in H-Dur, op. 8
+                Klaviertrio Nr. 2 in C-Dur, op. 66
+                <strong style='color:#572219;font-size:22px'>D. Shostakovich (1906-1975)</strong>
+                Klaviertrio Nr. 1 in c-Moll, op. 8
+                Sonate für Cello und Klavier Nr. 1 in d-Moll, op. 40`,
+                ke_chuyen_cua_ban:" Erzähle deine Geschichte",
+                chia_se_cau_chuyen_cua_ban: "Erzähle Ihre Geschichte!",
+                ke_chuyen_cua_ban_noi_dung:`
+Jede Geschichte, die in diesen intimen Klavierabenden erzählt wird, begann mit Menschen, deren reale Lebensgeschichten und Erfahrungen mir erzählt wurden und die mich dazu inspirierten, sie in diese tiefgründigen Musikprogramme zu integrieren.
+
+Nun, können Sie mir auch Ihre Geschichte, Gefühle, Gedanken vom Leben über diese Kontakt-E-Mail-Adresse hokhanhvanpianist@gmail.com teilen. Es ist mir als Künstlerin eine große Ehre, mich von Ihnen inspirieren zu lassen, um weiterhin bedeutungsvolle Botschaften durch Musik zu vermitteln!`,
+                lien_he_voi_minh: "Bleiben wir in Kontakt!",
         },
 };
 

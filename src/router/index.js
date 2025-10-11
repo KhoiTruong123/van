@@ -7,6 +7,8 @@ import Event from '../views/Event.vue'
 import Music from '@/views/Music.vue'
 import News from '@/views/News.vue'
 import Program from '@/views/Program.vue'
+import Contact from '@/views/Contact.vue'
+import Policy from '@/views/Policy.vue'
 
 // Khai báo các route
 const routes = [
@@ -16,6 +18,8 @@ const routes = [
   { path:'/music', component:Music},
   { path:'/news', component:News},
   { path:'/program', component:Program},
+  { path:'/contact', component: Contact},
+  { path:'/policy', component: Policy},
 ]
 
 // Tạo instance router

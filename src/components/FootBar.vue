@@ -14,10 +14,11 @@
                 <PhYoutubeLogo :size="28" />
                 <PhSpotifyLogo :size="28" />
             </div>
-            <p class="text-sm">Privacy Policy</p>
+            <!-- <p class="text-sm">Privacy Policy</p> -->
+             <a href="/policy" class="text-sm hover:underline">Privacy Policy</a>
         </div>
         
-        <div class="text-sm text-right">&copy; 2024 Ho Khanh Van. All rights reserved.</div>
+        <div class="text-sm text-right">&copy; 2025 Ho Khanh Van. All rights reserved.</div>
       </div>
     </footer>
 </template>
