@@ -3,7 +3,7 @@
         <section class="bg-gray-100 py-16">
             <div class="mx-auto">
                 <img class="w-full" src="/src/assets/images/su_kien.png" alt="">
-                <h2 class="text-3xl font-serif text-pink-900 text-center font-bold mt-16">{{ $t('Am_nhac') }}</h2>
+                <h2 class="text-3xl font-notoSerifDisplay text-pink-900 text-center font-bold mt-16">{{ $t('Am_nhac') }}</h2>
                 <div class="flex flex-wrap justify-center gap-6 pt-16 w-full">
                     <NewsCard
                         v-for="(music, index) in musics"

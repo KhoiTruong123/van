@@ -9,6 +9,7 @@ import News from '@/views/News.vue'
 import Program from '@/views/Program.vue'
 import Contact from '@/views/Contact.vue'
 import Policy from '@/views/Policy.vue'
+import Gallery from '@/views/Gallery.vue'
 
 // Khai báo các route
 const routes = [
@@ -20,6 +21,8 @@ const routes = [
   { path:'/program', component:Program},
   { path:'/contact', component: Contact},
   { path:'/policy', component: Policy},
+  { path:'/gallery', component: Gallery},
+
 ]
 
 // Tạo instance router

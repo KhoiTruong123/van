@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col gap-10 items-center font-serif">
+  <div class="flex flex-col gap-10 items-center font-notoSerifDisplay mt-16">
     <img src="/src/assets/images/su_kien_moi.png" class="w-full" alt="">
     <section class="max-w-[1440px] w-full pb-20 grid grid-cols-1 p-4 gap-4">
       <div class="col-span-1 text-[50px] text-[#950032] text-center">{{$t('Su_kien')}}</div>

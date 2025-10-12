@@ -1,6 +1,6 @@
 <template>
   <header
-    class="bg-[#130000] text-white fixed top-0 left-0 w-full z-50 font-serif h-16"
+    class="bg-[#130000] text-white fixed top-0 left-0 w-full z-50 font-notoSerifDisplay h-16"
   >
     <div class="max-w-[1440px] mx-auto flex items-center justify-between p-4">
       <div class="cursor-pointer" @click="router.push('/')">

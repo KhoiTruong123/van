@@ -11,7 +11,7 @@
                         <p class="text-gray-600 mt-1 text-lg">{{ newsItem.desc }}</p>
                         <p class="text-sm text-[#9D4B4C]">{{ newsItem.date }}</p>
                         <div>
-                            <button @click="targetLink(newsItem.link)" class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e] font-serif">
+                            <button @click="targetLink(newsItem.link)" class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e] font-notoSerifDisplay">
                             <div class="flex items-center">
                                 <span class="text-xl uppercase mr-4">{{ $t('xem_them') }}</span><span
                                     class="bg-white rounded-2xl h-[90%]">

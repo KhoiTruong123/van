@@ -9,10 +9,18 @@
         <div class="flex flex-col gap-2">
             <p class="text-sm">Email: hokhanhvanpianist@gmail.com</p>
             <div class="flex gap-1 justify-center">
-                <PhFacebookLogo :size="28" />
-                <PhInstagramLogo :size="28" />
-                <PhYoutubeLogo :size="28" />
-                <PhSpotifyLogo :size="28" />
+                <a href="https://www.facebook.com/hokhanhvanpianist">
+                  <PhFacebookLogo :size="28" />
+                </a>
+                <a href="https://www.instagram.com/hokhanhvanpianist/">
+                  <PhInstagramLogo :size="28" />
+                </a>
+                <a href="https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l?si=-Mnab1afTPGXs_At23PhSw">
+                  <PhSpotifyLogo :size="28" />
+                </a>
+                <a href="https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l?si=-Mnab1afTPGXs_At23PhSw">
+                  <PhSpotifyLogo :size="28" color="#ffff" weight="bold" />
+                </a>
             </div>
             <!-- <p class="text-sm">Privacy Policy</p> -->
              <a href="/policy" class="text-sm hover:underline">Privacy Policy</a>
@@ -24,7 +32,7 @@
 </template>
 <script setup>
 import { useI18n } from 'vue-i18n'
-import { PhFacebookLogo, PhInstagramLogo, PhSpotifyLogo, PhYoutubeLogo } from '@phosphor-icons/vue';
+import { PhFacebookLogo, PhInstagramLogo, PhSoundcloudLogo, PhSpotifyLogo, PhYoutubeLogo } from '@phosphor-icons/vue';
 const { locale } = useI18n()
 
 function changeLang(lang) {
