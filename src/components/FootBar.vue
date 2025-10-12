@@ -2,9 +2,9 @@
     <footer class="bg-[#130000] text-white py-20">
       <div class="max-w-[1440px] mx-auto px-4 text-center grid grid-cols-3">
         <div class="flex justify-start space-x-4">
-            <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold text-[#9D0602]': locale === 'vi' }" @click="changeLang('vi')">VI</button>
-            <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold text-[#9D0602]': locale === 'en' }" @click="changeLang('en')">EN</button>
-            <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold text-[#9D0602]': locale === 'de' }" @click="changeLang('de')">DE</button>
+            <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'vi' }" @click="changeLang('vi')">VI</button>
+            <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'en' }" @click="changeLang('en')">EN</button>
+            <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'de' }" @click="changeLang('de')">DE</button>
         </div>
         <div class="flex flex-col gap-2">
             <p class="text-sm">Email: hokhanhvanpianist@gmail.com</p>
