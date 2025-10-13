@@ -16,7 +16,7 @@
         </div>
         <!-- Ảnh -->
         <div class="flex justify-center">
-          <img src="/src/assets/images/tieu_su.png" alt="Vân"
+          <img src="/assets/images/tieu_su.png" alt="Vân"
             class="rounded-2xl shadow-lg max-w-xl w-full object-cover" />
         </div>
       </section>

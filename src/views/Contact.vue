@@ -6,7 +6,7 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
 <template>
     <div class="font-notoSerifDisplay bg-[#e7e1dd]">
         <div class="">
-                    <img src="/src/assets/images/contact.png" alt="Contact"
+                    <img src="/assets/images/contact.png" alt="Contact"
                         class="w-full" />
                 </div>
         <div class="mx-auto px-4 py-12 flex flex-col gap-20 max-w-[1440px]">
