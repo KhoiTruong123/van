@@ -13,7 +13,7 @@
               color="#572219"
               class="w-5 h-5 text-rose-900 mr-2"
             />
-            <span class="text-sm text-[#572219]">{{ $t(event.date) }}</span>
+            <span class="text-sm md:text-md text-[#572219]">{{ $t(event.date) }}</span>
           </div>
           <div class="flex items-center mb-2">
             <PhMapPinArea
@@ -21,15 +21,15 @@
               :size="32"
               color="#8b2727"
             />
-            <span class="text-sm text-[#572219]">{{ $t(event.place) }}</span>
+            <span class="text-sm md:text-md text-[#572219]">{{ $t(event.place) }}</span>
           </div>
         </div>
         <!-- <div class="hidden md:block w-[1px] h-[30px] bg-gray-400 mr-4"></div> -->
 
         <!-- Title + Desc -->
-        <div class="flex-1 pl-0 md:pl-6 col-span-2 h-full">
+        <div class="flex-1 pl-0 md:pl-6 col-span-2 h-full mt-4 md:mt-0">
           <h3
-            class="text-xl flex items-center justify-between cursor-pointer text-[#572219]"
+            class="md:text-xl text-sm flex items-center justify-between text-center md:text-left cursor-pointer text-[#572219]"
             @click="toggle(i)"
           >
             {{ $t(event.title) }}
@@ -45,7 +45,7 @@
             <p
               style="white-space: pre-line"
               v-if="openIndex === i"
-              class="text-sm text-gray-600 mt-1"
+              class="md:text-sm text-xs text-gray-600 mt-1"
             >
               {{ $t(event.desc) }}
             </p>

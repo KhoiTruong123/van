@@ -20,9 +20,9 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
                         <h2 class="text-center text-3xl md:text-5xl text-pink-800 font-bold">{{ $t('ke_chuyen_cua_ban') }}</h2>
                         <h1 class="text-center text-2xl md:text-3xl text-[#572219]">{{ $t('chia_se_cau_chuyen_cua_ban') }}</h1>
                     </div>
-                    <p v-html="$t('ke_chuyen_cua_ban_noi_dung')" style="white-space: pre-line" class="text-[#230E0E] leading-relaxed text-center md:text-left"/>
+                    <p v-html="$t('ke_chuyen_cua_ban_noi_dung')" style="white-space: pre-line" class="text-[#230E0E] leading-relaxed text-center md:text-left md:text-md text-sm"/>
                 </div>
-                <div class="flex flex-col gap-2">
+                <div class="flex flex-col gap-2 md:text-md text-sm">
                     <p class="font-bold text-[#572219]">{{ $t('lien_he_voi_minh') }}</p>
                     <div class="flex gap-2">
                         <PhEnvelope :size="22" color="#572219" weight="bold" />
@@ -33,7 +33,7 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
                         <p class="text-[#230E0E]">+49 159 0648 5758</p>
                     </div>
                 </div>
-                <div class="flex flex-col gap-2">
+                <div class="flex flex-col gap-2 md:text-md text-sm">
                     <p class="font-bold text-[#572219]">{{ $t('Website') }}</p>
                     <div class="flex flex-col gap-2">
                         <div class="flex gap-2">

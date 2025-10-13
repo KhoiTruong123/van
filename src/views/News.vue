@@ -2,18 +2,18 @@
     <section class="min-h-screen bg-gray-100 py-12">
         <div class="mx-auto">
             <img class="w-full" src="/Image_tin_tuc.png" alt="">
-            <h2 class="text-3xl font-bold text-center text-[#950032] mt-16 mb-16">{{ $t('Tin_tuc') }}</h2>
+            <h2 class="text-3xl md:text-5xl font-bold text-center text-[#950032] mt-16 mb-16">{{ $t('Tin_tuc') }}</h2>
             <div class="flex flex-col justify-center items-center gap-6 max-w-[1200px] mx-auto">
                 <div v-for="newsItem in news" class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
                     <img class="w-[100%]" :src="newsItem.img" alt="">
                     <div class="flex flex-col gap-4">
-                        <h3 class="font-semibold text-2xl text-[#572219]">{{ newsItem.title }}</h3>
-                        <p class="text-gray-600 mt-1 text-lg">{{ newsItem.desc }}</p>
-                        <p class="text-sm text-[#9D4B4C]">{{ newsItem.date }}</p>
-                        <div>
+                        <h3 class="font-semibold text-xl md:text-2xl text-[#572219]">{{ newsItem.title }}</h3>
+                        <p class="text-gray-600 mt-1 text-sm md:text-lg">{{ newsItem.desc }}</p>
+                        <p class=" text-xs md:text-sm text-[#9D4B4C]">{{ newsItem.date }}</p>
+                        <div class="flex md:justify-start justify-center">
                             <button @click="targetLink(newsItem.link)" class="bg-[#940032] text-white pl-6 pr-1 py-2 rounded-full hover:bg-[#8d3e3e] font-notoSerifDisplay">
                             <div class="flex items-center">
-                                <span class="text-xl uppercase mr-4">{{ $t('xem_them') }}</span><span
+                                <span class="md:text-xl text-sm uppercase mr-4">{{ $t('xem_them') }}</span><span
                                     class="bg-white rounded-2xl h-[90%]">
                                     <PhArrowUpRight class="text-[#8d3e3e]" :size="30" />
                                 </span>
