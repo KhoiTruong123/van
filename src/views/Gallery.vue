@@ -1,6 +1,6 @@
 <template>
     <div class="font-notoSerifDisplay mt-16">
-        <img class="w-full" src="/assets/images/hinh_anh_chinh.png" alt="" />
+        <img class="w-full" src="/hinh_anh_chinh.png" alt="" />
         <div class="bg-[#e7e0dc] py-16">
         <h2
             class="text-3xl font-bold text-center text-[#950032] mb-16"
@@ -13,19 +13,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_1.png"
+                            src="/hinh_anh_1.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_2.png"
+                            src="/hinh_anh_2.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_3.png"
+                            src="/hinh_anh_3.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -35,14 +35,14 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div class="">
                         <img
-                            src="/assets/images/hinh_anh_4.png"
+                            src="/hinh_anh_4.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_5.png"
+                            src="/hinh_anh_5.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -52,19 +52,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_6.png"
+                            src="/hinh_anh_6.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_7.png"
+                            src="/hinh_anh_7.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_8.png"
+                            src="/hinh_anh_8.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -94,19 +94,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_18.png"
+                            src="/hinh_anh_18.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_19.png"
+                            src="/hinh_anh_19.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_20.png"
+                            src="/hinh_anh_20.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -116,14 +116,14 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div class="">
                         <img
-                            src="/assets/images/hinh_anh_21.png"
+                            src="/hinh_anh_21.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_22.png"
+                            src="/hinh_anh_22.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -133,19 +133,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_23.png"
+                            src="/hinh_anh_23.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_24.png"
+                            src="/hinh_anh_24.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_25.png"
+                            src="/hinh_anh_25.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -155,14 +155,14 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div class="">
                         <img
-                            src="/assets/images/hinh_anh_26.png"
+                            src="/hinh_anh_26.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_27.png"
+                            src="/hinh_anh_27.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -172,19 +172,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_28.png"
+                            src="/hinh_anh_28.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_29.png"
+                            src="/hinh_anh_29.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_30.png"
+                            src="/hinh_anh_30.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -193,17 +193,17 @@
                 <!-- hinh anh 12 -->
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_31.png"
+                            src="/hinh_anh_31.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_32.png"
+                            src="/hinh_anh_32.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_33.png"
+                            src="/hinh_anh_33.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -212,19 +212,19 @@
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
                         <img
-                            src="/assets/images/hinh_anh_34.png"
+                            src="/hinh_anh_34.png"
                             alt="Gallery Image 3"
                             class="w-full h-full md:h-[400px]"
                         />
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
-                            src="/assets/images/hinh_anh_35.png"
+                            src="/hinh_anh_35.png"
                             alt="Gallery Image 1"
                             class="w-full h-full md:h-[400px]"
                         />
                         <img
-                            src="/assets/images/hinh_anh_36.png"
+                            src="/hinh_anh_36.png"
                             alt="Gallery Image 2"
                             class="w-full h-full md:h-[400px]"
                         />
@@ -238,19 +238,19 @@
 <script setup lang="ts">
 const sameStyleGallery = [
     {
-        img1: "/assets/images/hinh_anh_9.png",
-        img2: "/assets/images/hinh_anh_10.png",
-        img3: "/assets/images/hinh_anh_11.png",
+        img1: "/hinh_anh_9.png",
+        img2: "/hinh_anh_10.png",
+        img3: "/hinh_anh_11.png",
     },
     {
-        img1: "/assets/images/hinh_anh_12.png",
-        img2: "/assets/images/hinh_anh_13.png",
-        img3: "/assets/images/hinh_anh_14.png",
+        img1: "/hinh_anh_12.png",
+        img2: "/hinh_anh_13.png",
+        img3: "/hinh_anh_14.png",
     },
     {
-        img1: "/assets/images/hinh_anh_15.png",
-        img2: "/assets/images/hinh_anh_16.png",
-        img3: "/assets/images/hinh_anh_17.png",
+        img1: "/hinh_anh_15.png",
+        img2: "/hinh_anh_16.png",
+        img3: "/hinh_anh_17.png",
     },
 ]
 </script>

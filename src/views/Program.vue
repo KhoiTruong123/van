@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="font-notoSerifDisplay m-auto">
-            <img class="w-full" src="/assets/images/van.png" alt="">
+            <img class="w-full" src="/van.png" alt="">
             <div class="bg-[#e7e0dc] py-16">
                 <h2 class="text-3xl font-bold text-center text-[#950032] mb-16">{{ $t('Chuong_trinh_bieu_dien') }}
                 </h2>

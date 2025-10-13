@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#e8e1df] mt-16">
     <section class="relative">
-      <img src="//assets/images/hinh_anh_trang_chu.png" class="w-full h-full" alt="hero" />
+      <img src="/hinh_anh_trang_chu.png" class="w-full h-full" alt="hero" />
       <div class="absolute inset-0 bg-black/30 flex flex-col justify-center">
         <div class="ml-[10%]">
           <p class="text-[#9D0602] text-2xl md:text-5xl font-bold font-notoSerifDisplay">Hồ Khánh Vân</p>
@@ -17,7 +17,7 @@
       <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
         {{ $t('Su_kien') }}
       </h2>
-      <img class="w-full" src="../assets/images/su_kien.png" alt="" />
+      <img class="w-full" src="/su_kien.png" alt="" />
       <div class="space-y-6">
         <EventCard />
       </div>
@@ -98,11 +98,11 @@
       </h2>
       <div class="flex flex-col md:flex-row gap-2">
         <div class="grid grid-cols-2 gap-2">
-            <img v-for="i in 4" :key="i" src="/assets/images/hinh_anh_1.png" class="w-full object-cover" />
+            <img v-for="i in 4" :key="i" src="/hinh_anh_1.png" class="w-full object-cover" />
         </div>
-        <div><img src="/assets/images/hinh_anh_1.png" class="w-full md:w-[388px] h-full object-cover" /></div>
+        <div><img src="/hinh_anh_1.png" class="w-full md:w-[388px] h-full object-cover" /></div>
         <div class="grid grid-cols-2 gap-2">
-            <img v-for="i in 4" :key="i" src="/assets/images/hinh_anh_1.png" class="w-full object-cover" />
+            <img v-for="i in 4" :key="i" src="/hinh_anh_1.png" class="w-full object-cover" />
         </div>
       </div>
       <div class="flex justify-center mt-6">
@@ -134,50 +134,50 @@ const currentMusicCard = ref(0);
 const currentNewcard = ref(0);
 const musicList = [{
   title: "F. Liszt - Grandes études de Paganini, S. 141 No.6 | Hồ Khánh Vân",
-  img: "/assets/images/am_nhac_1.png",
+  img: "/am_nhac_1.png",
   link: "https://youtu.be/mEZIjBLaKa8?si=lpPeVSS6f8clEqn0"
 },
 {
   title: "F. Liszt - Après une lecture de Dante: Fantasia quasi Sonata | Hồ Khánh Vân",
-  img: "./assets/images/am_nhac_2.png",
+  img: "/am_nhac_2.png",
   link: "https://youtu.be/jhMJ10tzDv0?si=q4jq6ps-gP9pHONc"
 },
 {
   title: "B. Bartok - Out of Doors, Sz.81 | Hồ Khánh Vân",
-  img: "/assets/images/am_nhac_3.png",
+  img: "/am_nhac_3.png",
   link: "https://youtu.be/KkYkd75pk2k?si=sxHJVKw7D7lzGpA6"
 },
 {
   title: "L.v. Beethoven - Piano Sonata No.31 in A-flat major, Op.110 | Hồ Khánh Vân",
-  img: "/assets/images/am_nhac_4.png",
+  img: "/am_nhac_4.png",
   link: "https://youtu.be/rFTi6bmeex8?si=laSDz-On-grNJ-e0"
 }
 ];
 const news = [{
   title: "Klavierabend",
   date: "04/07/2025",
-  img: "/assets/images/tin_tuc_1.jpg",
+  img: "/tin_tuc_1.jpg",
   desc: "Bachelorprüfung von Hồ Khánh Vân",
   link: "https://www.hfmt-hamburg.de/hochschule/aktuelles/veranstaltungen/12381-2025-07-04-klavierabend"
 },
 {
   title: "Jeunes talents de l’Académie | Maria-Andrea Mendoza, violoncelle – Khánh Vân Hồ, piano",
   date: "07/07/2024",
-  img: "/assets/images/tin_tuc_2.png",
+  img: "/tin_tuc_2.png",
   desc: "Concerts en Nouvelle-Aquitaine Capbreton",
   link: "https://festivalravel.fr/evenements/jeunes-talents-de-lacademie-maria-andrea-mendoza-violoncelle-khanh-van-ho-piano/"
 },
 {
   title: "Premio Mauro Paolo Monopoli, tripudio di arte e musica",
   date: "05/15/2023",
-  img: "/assets/images/tin_tuc_3.jpg",
+  img: "/tin_tuc_3.jpg",
   desc: "Ecco i premiati",
   link: "https://barlettalive.it/2023/05/15/premio-mauro-paolo-monopoli-tripudio-di-arte-e-musica/"
 },
 {
   title: "Grande successo per il 26mo concorso pianistico 'Premio Mauro Monopoli'",
   date: "05/06/2025",
-  img: "/assets/images/tin_tuc_3.jpg",
+  img: "/tin_tuc_3.jpg",
   desc: "Vince la pianista vietnamita Ho Khanh Van",
   link: "https://www.barlettaviva.it/notizie/grande-successo-per-il-26mo-concorso-pianistico-premio-mauro-monopoli/"
 },
