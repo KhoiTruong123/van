@@ -1,12 +1,12 @@
 <template>
     <footer class="bg-[#130000] text-white py-20">
-      <div class="max-w-[1440px] mx-auto px-4 text-center grid grid-cols-3">
-        <div class="flex justify-start space-x-4">
+      <div class="max-w-[1440px] mx-auto px-4 text-center grid grid-cols-1 md:grid-cols-3">
+        <div class="flex justify-center md:justify-start space-x-4">
             <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'vi' }" @click="changeLang('vi')">VI</button>
             <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'en' }" @click="changeLang('en')">EN</button>
             <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'de' }" @click="changeLang('de')">DE</button>
         </div>
-        <div class="flex flex-col gap-2">
+        <div class="flex flex-col gap-2 items-center">
             <p class="text-sm">Email: hokhanhvanpianist@gmail.com</p>
             <div class="flex gap-1 justify-center">
                 <a href="https://www.facebook.com/hokhanhvanpianist">
@@ -26,7 +26,7 @@
              <a href="/policy" class="text-sm hover:underline">Privacy Policy</a>
         </div>
         
-        <div class="text-sm text-right">&copy; 2025 Ho Khanh Van. All rights reserved.</div>
+        <div class="text-sm md:text-right text-center ">&copy; 2025 Ho Khanh Van. All rights reserved.</div>
       </div>
     </footer>
 </template>

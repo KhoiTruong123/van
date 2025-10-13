@@ -66,19 +66,6 @@ Hồ Khánh Vân sinh năm 2002 trong một gia đình không có truyền thố
                         'Lớp GS. Stepan Simonian \n J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ "Nghệ thuật của phức điệu", BWV 1080 \nW.A. Mozart (1756-1791): Bản Sonata cho piano số 14 cung Đô thứ , K. 457 \nF. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op. 61 \nM. Ravel (1875-1937): La Valse, M. 72',
                 mot_doi_nguoi_desc:
                         "J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ 'Nghệ thuật của phức điệu', BWV 1080 \n J. Haydn (1732-1809): Bản Sonata cho piano số 60 cung Đô trưởng , Hob/XVI: 50\nL.v. Beethoven (1770-1827): Bản Sonata cho piano số 23 cung Fa thứ, Op. 57\nF. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op .61",
-                Contact: `Liên hệ  
-Hãy chia sẻ câu chuyện của bạn!  
-Mỗi một chủ đề được kể trong các buổi diễn đều bắt nguồn từ những câu chuyện và trải nghiệm chân thực mà Khánh Vân có cơ hội lắng nghe và thấu hiểu.  
-
-Gửi thư về: hokhanhvanpianist@gmail.com  
-SĐT: +49 159 0648 5758  
-
-Kết nối:  
-- YouTube: https://youtube.com/@hokhanhvanpianist  
-- Facebook: https://www.facebook.com/hokhanhvanpianist  
-- Instagram: https://www.instagram.com/hokhanhvanpianist/  
-- Spotify: https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l  
-- SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
                 tac_pham_giao_huong: "Tác phẩm giao hưởng",
                 tac_pham_giao_huong_noi_dung:
                         "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nBản Piano Concerto số 17 cung Sol trưởng, K. 453\nBản Piano Concerto số 20 cung Rê thứ, K. 466	\nBản Piano Concerto số 21 cung Đô trưởng, K. 467	\nBản Piano Concerto số 23 cung La trưởng, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nBản Piano Concerto số 3 cung Đô thứ, Op. 37\nBản Piano Concerto số 4 cung Sol trưởng, Op. 58\n<strong style='color:#572219;font-size:22px'>F.Chopin (1810-1849)</strong>\nBản Piano Concerto số 1 cung Mi thứ, Op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nBản Piano Concerto số 2 cung Si-giáng trưởng, Op. 83	",
@@ -152,7 +139,7 @@ ke_chuyen_cua_ban_noi_dung:`Mỗi một chủ đề được kể trong các bu�
 
 Do đó, để có thể mang đến nhiều chương trình độc tấu ý nghĩa và sâu sắc hơn nữa, Khánh Vân hi vọng sẽ được nghe thêm nhiều những lời chia sẻ chân thành và những nỗi tâm sự nơi đáy lòng của mọi người trong tương lai. 
 
-Mọi người có thể gửi những tâm thư qua mail hokhanhvanpianist@gmail.com ạ. Khánh Vân xin cảm ơn sự đồng hành của các khán giả đã luôn đặt niềm tin và tiếp động lực cho mình trong hành trình âm nhạc này!`,
+Mọi người có thể gửi những tâm thư qua mail ạ. Khánh Vân xin cảm ơn sự đồng hành của các khán giả đã luôn đặt niềm tin và tiếp động lực cho mình trong hành trình âm nhạc này!`,
 lien_he_voi_minh: "Liên hệ với mình nhé!"
         },
         en: {
@@ -220,19 +207,6 @@ Hồ Khánh Vân was born in 2002 to a into a family with no musical background 
                         "Class of Prof. Stepan Simonian\nJ.S. Bach (1685-1750): Contrapunctus I from 'The Art of Fugue', BWV 1080\nW.A. Mozart (1756-1791): Piano Sonata No. 14 in C minor, K. 457\nF. Chopin (1810-1849): Polonaise-Fantasie in A-flat major, Op. 61\nM. Ravel (1875-1937): La Valse, M. 72",
                 mot_doi_nguoi_desc:
                         "J.S. Bach (1685-1750): Contrapunctus I from 'The Art of Fugue', BWV 1080\nJ. Haydn (1732-1809): Piano Sonata No. 60 in C major, Hob/XVI: 50\nL.v. Beethoven (1770-1827): Piano Sonata No. 23 in F minor, Op. 57\nF. Chopin (1810-1849): Polonaise-Fantasie in A-flat major, Op. 61",
-                Contact: `Contact  
-Voice your stories through music!  
-Every recital is inspired by true stories and real-life experiences that Vân had the chance to hear and feel.  
-
-Email: hokhanhvanpianist@gmail.com  
-Phone: +49 159 0648 5758  
-
-Connect:  
-- YouTube: https://youtube.com/@hokhanhvanpianist  
-- Facebook: https://www.facebook.com/hokhanhvanpianist  
-- Instagram: https://www.instagram.com/hokhanhvanpianist/  
-- Spotify: https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l  
-- SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
                 tac_pham_giao_huong: "Symphonic Works",
                 tac_pham_giao_huong_noi_dung:
                         "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nPiano Concerto No. 17 in G major, K. 453\nPiano Concerto No. 20 in D minor, K. 466	\nPiano Concerto No. 21 in C major, K. 467	\nPiano Concerto No. 23 in A major, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nPiano Concerto No. 3 in C minor, Op. 37\nPiano Concerto No. 4 in G major, Op. 58\n<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>\nPiano Concerto No. 1 in E minor, Op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nPiano Concerto No. 2 in B-flat major, Op. 83	",
@@ -305,7 +279,7 @@ Connect:
                 chia_se_cau_chuyen_cua_ban: "Voice your stories through music!",
                 ke_chuyen_cua_ban_noi_dung:`Every story shared in these intimate piano recitals all started with those, whose real-life stories and experiences I had the precious opportunity to be told and was inspired to convey them into these deeply profound music programs.
 
-Therefore, your life - your story can be as well shared with me via this contact mail hokhanhvanpianist@gmail.com . It is my greatest honor as an artist to be inspired by your life stories in order to continuously deliver meaningful messages through music!`,
+Therefore, your life - your story can be as well shared with me via this contact mail . It is my greatest honor as an artist to be inspired by your life stories in order to continuously deliver meaningful messages through music!`,
                 lien_he_voi_minh: "Let's stay in touch!"
         },
         de: {
@@ -375,19 +349,6 @@ Hồ Khánh Vân wurde in 2002 von einer nicht-musikalischen Familie in Ho-Chi-M
                         "Klasse Prof. Stepan Simonian\nJ.S. Bach (1685-1750): Kontrapunktus I aus 'Die Kunst der Fuge', BWV 1080\nW.A. Mozart (1756-1791): Klaviersonate Nr. 14 in c-Moll, K. 457\nF. Chopin (1810-1849): Polonaise-Fantasie in As-Dur, op. 61 \nM. Ravel (1875-1937): La Valse, M. 72",
                 mot_doi_nguoi_desc:
                         "J.S. Bach (1685-1750): Kontrapunktus I aus 'Die Kunst der Fuge', BWV 1080\nJ. Haydn (1732-1809): Klaviersonate Nr. 60 in C-Dur, Hob/XVI: 50\nL.v. Beethoven (1770-1827): Klaviersonate Nr. 23 in f-Moll, op. 57\nF. Chopin (1810-1849): Polonaise-Fantasie in As-Dur, op. 61 ",
-                Contact: `Kontakt  
-Erzähle Ihre Geschichte!  
-Jedes Konzert ist von wahren Geschichten und Lebenserfahrungen inspiriert, die Vân hören und fühlen durfte.  
-
-E-Mail: hokhanhvanpianist@gmail.com  
-Telefon: +49 159 0648 5758  
-
-Verbinden:  
-- YouTube: https://youtube.com/@hokhanhvanpianist  
-- Facebook: https://www.facebook.com/hokhanhvanpianist  
-- Instagram: https://www.instagram.com/hokhanhvanpianist/  
-- Spotify: https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l  
-- SoundCloud: https://soundcloud.com/hokhanhvanpianist`,
                 tac_pham_giao_huong: "Symphonische Werke",
                 tac_pham_giao_huong_noi_dung:
                         "<strong style='color:#572219;font-size:22px'>W.A. Mozart (1756-1791)</strong>\nKlavierkonzert Nr. 17 in G-Dur, K. 453\nKlavierkonzert Nr. 20 in d-Moll, K. 466	\nKlavierkonzert Nr. 21 in C-Dur, K. 467	\nKlavierkonzert Nr. 23 in A-Dur, K. 488	\n<strong style='color:#572219;font-size:22px'>L.v. Beethoven (1770-1827)</strong>\nKlavierkonzert Nr. 3 in c-Moll, op. 37\nKlavierkonzert Nr. 4 in G-Dur, op. 58\n<strong style='color:#572219;font-size:22px'>F. Chopin (1810-1849)</strong>\nKlavierkonzert Nr. 1 in e-Moll, op. 11\n<strong style='color:#572219;font-size:22px'>J. Brahms (1833-1897)</strong>\nKlavierkonzert Nr. 2 in B-Dur, op. 83	",
@@ -461,7 +422,7 @@ Verbinden:
                 ke_chuyen_cua_ban_noi_dung:`
 Jede Geschichte, die in diesen intimen Klavierabenden erzählt wird, begann mit Menschen, deren reale Lebensgeschichten und Erfahrungen mir erzählt wurden und die mich dazu inspirierten, sie in diese tiefgründigen Musikprogramme zu integrieren.
 
-Nun, können Sie mir auch Ihre Geschichte, Gefühle, Gedanken vom Leben über diese Kontakt-E-Mail-Adresse hokhanhvanpianist@gmail.com teilen. Es ist mir als Künstlerin eine große Ehre, mich von Ihnen inspirieren zu lassen, um weiterhin bedeutungsvolle Botschaften durch Musik zu vermitteln!`,
+Nun, können Sie mir auch Ihre Geschichte, Gefühle, Gedanken vom Leben über diese Kontakt-E-Mail-Adresse teilen. Es ist mir als Künstlerin eine große Ehre, mich von Ihnen inspirieren zu lassen, um weiterhin bedeutungsvolle Botschaften durch Musik zu vermitteln!`,
                 lien_he_voi_minh: "Bleiben wir in Kontakt!",
         },
 };

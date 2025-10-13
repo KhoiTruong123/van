@@ -15,19 +15,19 @@
                         <img
                             src="/hinh_anh_1.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_2.png"
                             alt="Gallery Image 2"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
                             src="/hinh_anh_3.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -37,14 +37,14 @@
                         <img
                             src="/hinh_anh_4.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
                             src="/hinh_anh_5.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         <img
                             src="/hinh_anh_6.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -96,19 +96,19 @@
                         <img
                             src="/hinh_anh_18.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_19.png"
                             alt="Gallery Image 2"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
                             src="/hinh_anh_20.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -118,14 +118,14 @@
                         <img
                             src="/hinh_anh_21.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
                             src="/hinh_anh_22.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -135,19 +135,19 @@
                         <img
                             src="/hinh_anh_23.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
                             src="/hinh_anh_24.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_25.png"
                             alt="Gallery Image 2"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -157,14 +157,14 @@
                         <img
                             src="/hinh_anh_26.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
                             src="/hinh_anh_27.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -174,19 +174,19 @@
                         <img
                             src="/hinh_anh_28.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_29.png"
                             alt="Gallery Image 2"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div>
                         <img
                             src="/hinh_anh_30.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
@@ -195,17 +195,17 @@
                         <img
                             src="/hinh_anh_31.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_32.png"
                             alt="Gallery Image 2"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_33.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <!-- hinh anh 13 -->
@@ -214,19 +214,19 @@
                         <img
                             src="/hinh_anh_34.png"
                             alt="Gallery Image 3"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <img
                             src="/hinh_anh_35.png"
                             alt="Gallery Image 1"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                         <img
                             src="/hinh_anh_36.png"
                             alt="Gallery Image 2"
-                            class="w-full h-full md:h-[400px]"
+                            class="w-full h-[200px] md:h-[400px]"
                         />
                     </div>
                 </div>
