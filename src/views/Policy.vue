@@ -8,7 +8,7 @@
 
     <p class="text-base text-gray-700 mb-10 leading-relaxed">
       This Privacy Policy describes how your personal information is collected, used, and shared
-      when you visit hokhanhvanpianist@gmail.com (the “Site”).
+      when you visit hokhanhvanpianist.com (the “Site”).
     </p>
 
     <!-- Section -->
