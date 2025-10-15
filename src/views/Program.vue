@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="font-notoSerifDisplay m-auto md:text-left text-center">
-            <img class="w-full" src="/program.png" alt="">
+            <img class="w-full mt-16" src="/program.png" alt="">
             <div class="bg-[#e7e0dc] py-16 px-4">
                 <h2 style="white-space: pre-line" class="md:text-5xl text-4xl text- font-bold text-center text-[#950032] mb-16 !leading-[55px]">{{ $t('Chuong_trinh_bieu_dien') }}
                 </h2>

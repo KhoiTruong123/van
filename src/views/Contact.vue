@@ -38,7 +38,7 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
                     <div class="flex flex-col gap-2">
                         <div class="flex gap-2">
                             <PhUser :size="22" color="#572219" weight="bold" />
-                            <p class="text-[#230E0E]">Khoi</p>
+                            <p class="text-[#230E0E]">Trương Sử Khôi</p>
                         </div>
                         <div class="flex gap-2">
                             <PhDeviceTabletSpeaker :size="22" color="#572219" weight="bold" />
@@ -53,14 +53,15 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
                     <div class="flex flex-col gap-2">
                         <div class="flex gap-2">
                             <PhUser :size="22" color="#572219" weight="bold" />
-                            <p class="text-[#230E0E]">Ha</p>                        </div>
+                            <p class="text-[#230E0E]">Nguyễn Lê Thu Hà</p>                        
+                        </div>
                         <div class="flex gap-2">
                             <PhDeviceTabletSpeaker :size="22" color="#572219" weight="bold" />
                             <p class="text-[#230E0E]">Web Designer</p>
                         </div>
                         <div class="flex gap-2">
                             <PhEnvelope :size="22" color="#572219" weight="bold" />
-                            <p class="text-[#230E0E]">ha@gmail.com</p>
+                            <p class="text-[#230E0E]">mia.nguyen.designer@gmail.com</p>
                         </div>
                         
                     </div>

@@ -98,7 +98,7 @@ J.S. Bach (1685-1750): Bản Contrapunktus số 1 từ "Nghệ thuật của ph�
 J. Haydn (1732-1809): Bản Sonata cho piano số 60 cung Đô trưởng , Hob/XVI: 50
 L.v. Beethoven (1770-1827): Bản Sonata cho piano số 23 cung Fa thứ, Op. 57
 F. Chopin (1810-1849): Bản Polonaise-Fantasie cung La-giáng trưởng, Op .61
-<strong style='color:#572219;font-size:22px'>Chương trình VI: Sự tái ngộ</strong>
+<strong style='color:#572219;font-size:22px'>Chương trình VI: Sự tái ngộ</strong>
 D. Scarlatti (1685-1757): Bản Sonata cho đàn phím cung Rê thứ , K. 213
 F. Chopin (1810-1849): Bản Sonata cho piano số 2 cung Si-giáng thứ, Op. 35
 J.S. Bach/W. Kempff: Siciliano từ Bản Sonata cho sáo cung Mi-giáng trưởng, BWV 1031
