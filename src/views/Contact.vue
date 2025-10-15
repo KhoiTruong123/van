@@ -5,7 +5,7 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
 
 <template>
     <div class="font-notoSerifDisplay bg-[#e6e0da]">
-        <div class="">
+        <div class="mt-16">
                     <img src="/contact.png" alt="Contact"
                         class="w-full" />
                 </div>
