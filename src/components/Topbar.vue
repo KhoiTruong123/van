@@ -45,13 +45,13 @@
         tag="div"
         class="flex flex-col gap-4 text-center"
       >
-      <router-link class="hover:underline" to="/about">{{ $t('Ve_Van') }}</router-link>
-      <router-link class="hover:underline" to="/event">{{ $t('Su_kien') }}</router-link>
-      <router-link class="hover:underline" to="/program">{{ $t('Chuong_trinh_bieu_dien') }}</router-link>
-      <router-link class="hover:underline" to="/music">{{ $t('Am_nhac') }}</router-link>
-      <router-link class="hover:underline" to="/news">{{ $t('Tin_tuc') }}</router-link>
-      <router-link class="hover:underline" to="/gallery">{{ $t('Hinh_anh') }}</router-link>
-      <router-link class="hover:underline" to="/contact">{{ $t('Lien_he') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/about">{{ $t('Ve_Van') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/event">{{ $t('Su_kien') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/program">{{ $t('Chuong_trinh_bieu_dien') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/music">{{ $t('Am_nhac') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/news">{{ $t('Tin_tuc') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/gallery">{{ $t('Hinh_anh') }}</router-link>
+      <router-link @click="isOpenMenu = false" class="hover:underline" to="/contact">{{ $t('Lien_he') }}</router-link>
 
         <!-- <a class="hover:underline" href="/about">{{ $t('Ve_Van') }}</a>
         <a href="/event" class="hover:underline">{{ $t('Su_kien') }}</a>

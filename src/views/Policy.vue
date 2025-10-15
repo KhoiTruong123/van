@@ -2,13 +2,13 @@
     <section class="min-h-screen bg-[#e7e1dd] px-6 py-16 mt-16 flex justify-center font-notoSerifDisplay">
   <div class="max-w-3xl text-[#2b2b2b]">
     <!-- Tiêu đề chính -->
-    <h1 class="text-4xl text-[#9D0602] italic mb-8 text-center font-bold">
+    <h1 class="text-4xl text-[#a24c4c] mb-8 font-notoSerifDisplay text-center font-bold">
       Privacy Policy
     </h1>
 
     <p class="text-base text-gray-700 mb-10 leading-relaxed">
       This Privacy Policy describes how your personal information is collected, used, and shared
-      when you visit GiselleVan.com (the “Site”).
+      when you visit hokhanhvanpianist@gmail.com (the “Site”).
     </p>
 
     <!-- Section -->
@@ -85,7 +85,7 @@
         <h2 class="font-notoSerifDisplay text-2xl font-semibold mb-3">Contact us</h2>
         <p class="text-gray-700 leading-relaxed">
             For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact our website developer at <a href="mailto:GiselleVan@gmail.com" class="text-[#a33b2f] hover:underline">
-            GiselleVan@gmail.com
+            hokhanhvanpianist@gmail.com
           </a>.
         </p>
       </section>
