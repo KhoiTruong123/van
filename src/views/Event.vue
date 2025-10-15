@@ -1,8 +1,8 @@
 <template>
-  <div class="flex flex-col gap-10 items-center font-notoSerifDisplay mt-16">
+  <div class="flex flex-col items-center font-notoSerifDisplay mt-16 bg-[#e6e0da]">
     <img src="/su_kien_moi.png" class="w-full" alt="">
+    <div class="col-span-1 text-3xl md:text-5xl text-[#950032] text-center font-bold mt-10">{{$t('Su_kien')}}</div>
     <section class="max-w-[1440px] w-full pb-20 grid grid-cols-1 p-4 gap-4">
-      <div class="col-span-1 text-3xl md:text-5xl text-[#950032] text-center font-bold">{{$t('Su_kien')}}</div>
       <div class="space-y-4 col-span-3 pt-10">
         <div
         v-for="(event, i) in events"
@@ -11,20 +11,20 @@
       >
         <!-- Icon + Date -->
         <div class="">
-          <div class="flex items-center mb-2">
+          <div class="flex items-center justify-center md:justify-start mb-2">
             <PhCalendarDots
               color="#572219"
               class="w-5 h-5 text-rose-900 mr-2"
             />
             <span class="md:text-md text-sm text-[#572219]">{{ $t(event.date) }}</span>
           </div>
-          <div class="flex items-center mb-2">
+          <div class="flex justify-center md:justify-start items-center mb-2">
             <PhMapPinArea
-              class="w-5 h-5 text-rose-900 mr-2"
+              class="w-5 h-5 text-rose-900 mr-2 md:block hidden"
               :size="32"
               color="#8b2727"
             />
-            <span class="md:text-md text-sm text-[#572219]">{{ $t(event.place) }}</span>
+            <span class="md:text-md text-sm text-[#572219] md:text-left text-center">{{ $t(event.place) }}</span>
           </div>
         </div>
         <!-- <div class="hidden md:block w-[1px] h-[30px] bg-gray-400 mr-4"></div> -->
@@ -33,7 +33,7 @@
         <div class="flex items-center justify-between mt-4 md:mt-0 h-full col-span-2">
           <div class="flex-1 pl-0 md:pl-6 h-full">
             <div
-              class="md:text-xl text-md flex items-center cursor-pointer text-[#572219]"
+              class="md:text-xl md:text-left text-center text-md flex flex-col md:flex-row items-center cursor-pointer text-[#572219]"
               @click="toggle(i)"
             >
               {{ $t(event.title) }}
@@ -50,7 +50,7 @@
               <p
                 style="white-space: pre-line"
                 v-if="openIndex === i"
-                class="md:text-md text-sm text-gray-600 mt-1"
+                class="md:text-md md:text-left text-center text-sm text-gray-600 mt-1"
               >
                 {{ $t(event.desc) }}
               </p>

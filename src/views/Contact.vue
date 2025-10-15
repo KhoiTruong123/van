@@ -4,7 +4,7 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
 </script>
 
 <template>
-    <div class="font-notoSerifDisplay bg-[#e7e1dd]">
+    <div class="font-notoSerifDisplay bg-[#e6e0da]">
         <div class="">
                     <img src="/contact.png" alt="Contact"
                         class="w-full" />
@@ -17,7 +17,7 @@ import { PhDeviceTabletSpeaker, PhEnvelope, PhPhone, PhUser } from '@phosphor-ic
                 <!-- Text -->
                 <div class="space-y-4">
                     <div class="flex flex-col gap-10 mb-8">
-                        <h2 class="text-center text-3xl md:text-5xl text-pink-800 font-bold">{{ $t('ke_chuyen_cua_ban') }}</h2>
+                        <h2 class="text-center text-3xl md:text-5xl text-pink-800 font-bold">{{ $t('Lien_he') }}</h2>
                         <h1 class="text-center text-2xl md:text-3xl text-[#572219]">{{ $t('chia_se_cau_chuyen_cua_ban') }}</h1>
                     </div>
                     <p v-html="$t('ke_chuyen_cua_ban_noi_dung')" style="white-space: pre-line" class="text-[#230E0E] leading-relaxed text-center md:text-left md:text-md text-sm"/>

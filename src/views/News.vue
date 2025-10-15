@@ -1,5 +1,5 @@
 <template>
-    <section class="min-h-screen bg-gray-100 py-12">
+    <section class="min-h-screen bg-[#e6e0da] py-12 font-notoSerifDisplay">
         <div class="mx-auto">
             <img class="w-full" src="/Image_tin_tuc.png" alt="">
             <h2 class="text-3xl md:text-5xl font-bold text-center text-[#950032] mt-16 mb-16">{{ $t('Tin_tuc') }}</h2>
@@ -40,21 +40,21 @@ const news = [{
 },
 {
     title: "Jeunes talents de l’Académie | Maria-Andrea Mendoza, violoncelle – Khánh Vân Hồ, piano",
-    date: "07/07/2024",
+    date: "07.07.2024",
     img: "/tin_tuc_2.png",
     desc: "Concerts en Nouvelle-Aquitaine Capbreton",
     link: "https://festivalravel.fr/evenements/jeunes-talents-de-lacademie-maria-andrea-mendoza-violoncelle-khanh-van-ho-piano/"
 },
 {
     title: "Premio Mauro Paolo Monopoli, tripudio di arte e musica",
-    date: "05/15/2023",
+    date: "15.05.2023",
     img: "/tin_tuc_3.jpg",
     desc: "Ecco i premiati",
     link: "https://barlettalive.it/2023/05/15/premio-mauro-paolo-monopoli-tripudio-di-arte-e-musica/"
 },
 {
     title: "Grande successo per il 26mo concorso pianistico 'Premio Mauro Monopoli'",
-    date: "05 Jun 2025",
+    date: "05.06.2025",
     img: "/tin_tuc_3.jpg",
     desc: "Vince la pianista vietnamita Ho Khanh Van",
     link: "https://www.barlettaviva.it/notizie/grande-successo-per-il-26mo-concorso-pianistico-premio-mauro-monopoli/"

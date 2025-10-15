@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-[#130000] text-white py-20">
+    <footer class="bg-[#130000] text-white py-20 font-notoSerifDisplay">
       <div class="max-w-[1440px] mx-auto px-4 text-center grid grid-cols-1 md:grid-cols-3">
         <div class="flex justify-center md:justify-start space-x-4">
             <button class="text-gray-300 hover:text-[#9D0602]" :class="{ 'font-bold !text-[#9D0602]': locale === 'vi' }" @click="changeLang('vi')">VI</button>
@@ -18,15 +18,18 @@
                 <a href="https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l?si=-Mnab1afTPGXs_At23PhSw">
                   <PhSpotifyLogo :size="28" />
                 </a>
-                <a href="https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l?si=-Mnab1afTPGXs_At23PhSw">
+                <!-- <a href="https://open.spotify.com/artist/7ITTvBdoCqXRKt1SnuV13l?si=-Mnab1afTPGXs_At23PhSw">
                   <PhSpotifyLogo :size="28" color="#ffff" weight="bold" />
+                </a> -->
+                <a href="https://www.youtube.com/@hokhanhvanpianist">
+                  <PhYoutubeLogo :size="28" />
                 </a>
             </div>
             <!-- <p class="text-sm">Privacy Policy</p> -->
              <a href="/policy" class="text-sm hover:underline">Privacy Policy</a>
         </div>
         
-        <div class="text-sm md:text-right text-center ">&copy; 2025 Ho Khanh Van. All rights reserved.</div>
+        <div class="text-sm md:text-right text-center ">&copy; 2025 Hồ Khánh Vân. All rights reserved.</div>
       </div>
     </footer>
 </template>

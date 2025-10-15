@@ -45,13 +45,22 @@
         tag="div"
         class="flex flex-col gap-4 text-center"
       >
-        <a class="hover:underline" href="/about">{{ $t('Ve_Van') }}</a>
+      <router-link class="hover:underline" to="/about">{{ $t('Ve_Van') }}</router-link>
+      <router-link class="hover:underline" to="/event">{{ $t('Su_kien') }}</router-link>
+      <router-link class="hover:underline" to="/program">{{ $t('Chuong_trinh_bieu_dien') }}</router-link>
+      <router-link class="hover:underline" to="/music">{{ $t('Am_nhac') }}</router-link>
+      <router-link class="hover:underline" to="/news">{{ $t('Tin_tuc') }}</router-link>
+      <router-link class="hover:underline" to="/gallery">{{ $t('Hinh_anh') }}</router-link>
+      <router-link class="hover:underline" to="/contact">{{ $t('Lien_he') }}</router-link>
+
+        <!-- <a class="hover:underline" href="/about">{{ $t('Ve_Van') }}</a>
         <a href="/event" class="hover:underline">{{ $t('Su_kien') }}</a>
         <a href="/program" class="hover:underline">{{ $t('Chuong_trinh_bieu_dien') }}</a>
         <a href="/music" class="hover:underline">{{ $t('Am_nhac') }}</a>
         <a href="/news" class="hover:underline">{{ $t('Tin_tuc') }}</a>
         <a href="/gallery" class="hover:underline">{{ $t('Hinh_anh') }}</a>
-        <a href="/contact" class="hover:underline">{{ $t('Lien_he') }}</a>
+        <a href="/contact" class="hover:underline">{{ $t('Lien_he') }}</a> -->
+
       </TransitionGroup>
         
       </nav>

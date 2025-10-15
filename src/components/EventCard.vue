@@ -29,7 +29,7 @@
         <!-- Title + Desc -->
         <div class="flex-1 pl-0 md:pl-6 col-span-2 h-full mt-4 md:mt-0">
           <h3
-            class="md:text-xl text-sm flex items-center justify-between text-center md:text-left cursor-pointer text-[#572219]"
+            class="md:text-xl text-md flex items-center justify-between text-center md:text-left cursor-pointer text-[#572219]"
             @click="toggle(i)"
           >
             {{ $t(event.title) }}

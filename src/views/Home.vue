@@ -64,7 +64,7 @@
     <!-- Tin tức -->
     <section class="max-w-[1440px] mx-auto px-4 py-16 font-notoSerifDisplay">
       <h2 class="text-center text-2xl md:text-3xl font-bold text-[#940032] mb-8">
-        {{ $t('Tin tức') }}
+        {{ $t('Tin_tuc') }}
       </h2>
       <div ref="sliderNews"
         class="flex gap-4 overflow-x-auto scroll-smooth snap-x snap-mandatory py-6 [&::-webkit-scrollbar]:hidden">
@@ -134,49 +134,49 @@ const currentMusicCard = ref(0);
 const currentNewcard = ref(0);
 const musicList = [{
   title: "F. Liszt - Grandes études de Paganini, S. 141 No.6 | Hồ Khánh Vân",
-  img: "/am_nhac_1.png",
+  img: "/music-1.PNG",
   link: "https://youtu.be/mEZIjBLaKa8?si=lpPeVSS6f8clEqn0"
 },
 {
-  title: "F. Liszt - Après une lecture de Dante: Fantasia quasi Sonata | Hồ Khánh Vân",
-  img: "/am_nhac_2.png",
-  link: "https://youtu.be/jhMJ10tzDv0?si=q4jq6ps-gP9pHONc"
+  title: "26th MPM International Competition - Final Stage - Beethoven: Piano Concerto No. 4 (Khanh Van Ho)",
+  img: "/music-2.PNG",
+  link: "https://www.youtube.com/watch?v=AQYxh_jC49c"
 },
 {
   title: "B. Bartok - Out of Doors, Sz.81 | Hồ Khánh Vân",
-  img: "/am_nhac_3.png",
+  img: "/music-3.PNG",
   link: "https://youtu.be/KkYkd75pk2k?si=sxHJVKw7D7lzGpA6"
 },
 {
   title: "L.v. Beethoven - Piano Sonata No.31 in A-flat major, Op.110 | Hồ Khánh Vân",
-  img: "/am_nhac_4.png",
+  img: "/music-4.PNG",
   link: "https://youtu.be/rFTi6bmeex8?si=laSDz-On-grNJ-e0"
 }
 ];
 const news = [{
   title: "Klavierabend",
-  date: "04/07/2025",
+  date: "04.07.2025",
   img: "/tin_tuc_1.jpg",
   desc: "Bachelorprüfung von Hồ Khánh Vân",
   link: "https://www.hfmt-hamburg.de/hochschule/aktuelles/veranstaltungen/12381-2025-07-04-klavierabend"
 },
 {
   title: "Jeunes talents de l’Académie | Maria-Andrea Mendoza, violoncelle – Khánh Vân Hồ, piano",
-  date: "07/07/2024",
+  date: "07.07.2024",
   img: "/tin_tuc_2.png",
   desc: "Concerts en Nouvelle-Aquitaine Capbreton",
   link: "https://festivalravel.fr/evenements/jeunes-talents-de-lacademie-maria-andrea-mendoza-violoncelle-khanh-van-ho-piano/"
 },
 {
   title: "Premio Mauro Paolo Monopoli, tripudio di arte e musica",
-  date: "05/15/2023",
+  date: "15.05.2023",
   img: "/tin_tuc_3.jpg",
   desc: "Ecco i premiati",
   link: "https://barlettalive.it/2023/05/15/premio-mauro-paolo-monopoli-tripudio-di-arte-e-musica/"
 },
 {
   title: "Grande successo per il 26mo concorso pianistico 'Premio Mauro Monopoli'",
-  date: "05/06/2025",
+  date: "05.06.2025",
   img: "/tin_tuc_3.jpg",
   desc: "Vince la pianista vietnamita Ho Khanh Van",
   link: "https://www.barlettaviva.it/notizie/grande-successo-per-il-26mo-concorso-pianistico-premio-mauro-monopoli/"
